@@ -1,0 +1,126 @@
+{
+  "slidechat/975a73561ab8ff93455f9d6f2e5a571f940dc9c7/SlideInstruct_train_stage1_caption.json": {
+    "sha256": "70f6a91819ec208db89800806ef6d1fa94b9ab44086c71fc72f449ac7e2a5cbd",
+    "url": "https://huggingface.co/datasets/General-Medical-AI/SlideChat/resolve/975a73561ab8ff93455f9d6f2e5a571f940dc9c7/SlideInstruct_train_stage1_caption.json"
+  },
+  "slidechat/975a73561ab8ff93455f9d6f2e5a571f940dc9c7/SlideInstruct_train_stage2_vqa.json": {
+    "sha256": "8dcd8a9b306287524e002cd781172463d7256e11d79c6de3d41f3a8e2cf2f8e5",
+    "url": "https://huggingface.co/datasets/General-Medical-AI/SlideChat/resolve/975a73561ab8ff93455f9d6f2e5a571f940dc9c7/SlideInstruct_train_stage2_vqa.json"
+  },
+  "slidechat/975a73561ab8ff93455f9d6f2e5a571f940dc9c7/SlideBench-VQA-TCGA.csv": {
+    "sha256": "668d063d81ee50974f8f9666787f155c8f59443bc47caa08bbb5f9e4a9fa020b",
+    "url": "https://huggingface.co/datasets/General-Medical-AI/SlideChat/resolve/975a73561ab8ff93455f9d6f2e5a571f940dc9c7/SlideBench-VQA-TCGA.csv"
+  },
+  "slidechat/975a73561ab8ff93455f9d6f2e5a571f940dc9c7/SlideBench-VQA-BCNB.csv": {
+    "sha256": "10b83c6177bd13bee9471fb0bd54b7d500e7eccdb7e52b462424ed50cb259e0b",
+    "url": "https://huggingface.co/datasets/General-Medical-AI/SlideChat/resolve/975a73561ab8ff93455f9d6f2e5a571f940dc9c7/SlideBench-VQA-BCNB.csv"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/1_Report_train.json": {
+    "sha256": "b1bbfecba19754ffc64f66e2c3b4f4867a8070f3211cc2ce779fe952fc257332",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/1_Report_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Diagnosis_choice_train.json": {
+    "sha256": "782652c68a3a08c1210db23d719e34bfa7a7f6ed5f4ff9f9b48fab4dbec5ec2c",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Diagnosis_choice_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Global_Morphology_Description_train.json": {
+    "sha256": "baf5873661ea0adb080b68f2d4ce2ee51964f5c40b8cf5cff881986815fcf1e4",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Global_Morphology_Description_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Grading_train.json": {
+    "sha256": "3a5529597707f807c2e1c1e43726bf5ac5c7e9ee50e5fc14afcb95ff5e3cb636",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Grading_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Histological_Typing_train.json": {
+    "sha256": "67f8b9de0db54fd2b6e8e9a4d7cc9145c52287067caa04550d441141f972b4d3",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Histological_Typing_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Key_Diagnostic_Description_train.json": {
+    "sha256": "1000016dd0fa0c1ffd6f680865207b93919ed445b970c7a3beca5b0133b87247",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Key_Diagnostic_Description_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Molecular_Subtyping_choice_train.json": {
+    "sha256": "4c29c65916bc5bd33db4711ef3ad66bd3996c58340f418d9b5b9a5ae4f80bb40",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Molecular_Subtyping_choice_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Molecular_Subtyping_train.json": {
+    "sha256": "ecdf5c237ef428780de9e78399f8c88b364740e6655d27d7f26f0ebf6a018b94",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Molecular_Subtyping_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Morphology_choice_train.json": {
+    "sha256": "7d97675aa78d1df0641dbaf3ee870762194e3e8292fe68400a97c249db8eb847",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Morphology_choice_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Prognosis_TF_question_train.json": {
+    "sha256": "9678765f51ee2f384a89e162ac3c765fbf51f153556e2f07629ac4a16f14c81e",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Prognosis_TF_question_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Prognosis_train.json": {
+    "sha256": "0d2f72b8029bfee3ca0e3acc9db30de75f9c99a93406342ddb83d4abb6525197",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Prognosis_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Regional_Structure_Description_train.json": {
+    "sha256": "13a3d0c2384c884aade44ac2e0d5c4e0cfc6f4288c5033df223b18c4e15bc670",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Regional_Structure_Description_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Specific_Feature_Description_train.json": {
+    "sha256": "2569835cdc0cbc618860d1175ddddf12dfd58dc9085af03a339270c9546c32a3",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Specific_Feature_Description_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Staging_choice_train.json": {
+    "sha256": "68bd6c6911d3ec434545fe964bcf4188f2a583db976f439131b909284a89e41f",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Staging_choice_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Staging_train.json": {
+    "sha256": "b43a26b21c9429027848f20cd9d79710ec916ebb3334e24945946d5213cf907e",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Staging_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Treatment_Planing_train.json": {
+    "sha256": "f0e1c9378b548b7b9a644cb7b935cbff2ff49a8e688a9ef05eb0ced8223e531a",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Treatment_Planing_train.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/1_Report_test.json": {
+    "sha256": "76b66f2f903e6efcaef9cf3edf40348653c18560a4f34989682135b2d8d38315",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/1_Report_test.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Global_Morphology_Description_test.json": {
+    "sha256": "a1ece5ead42ae637bdd2427323976d913f567ade77b0238fea806680ff9f503e",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Global_Morphology_Description_test.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Grading_test.json": {
+    "sha256": "9888566e62bf297e3a3e9025f5410043399ea803bd34a3882bcdf88c2bfeb876",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Grading_test.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Histological_Typing_test.json": {
+    "sha256": "97d190fd5abe3eabd1384919d9bdeac3e622a81aa1a171e549b8514e8b2ff374",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Histological_Typing_test.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Key_Diagnostic_Description_test.json": {
+    "sha256": "04f370ddbf0e0e3560c55141d2d36dcdf9c20a6762afc5547f3da485f97cf4e9",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Key_Diagnostic_Description_test.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Molecular_Subtyping_test.json": {
+    "sha256": "db645136b9cee07f51f04e994a46a85e8addf2e8c5e8c7fe7068b87e8174699b",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Molecular_Subtyping_test.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Prognosis_test.json": {
+    "sha256": "bce25d3de28a996644ddec83efb7be9fdfb6d2664c8381b117a5a7aad92b94d8",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Prognosis_test.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Regional_Structure_Description_test.json": {
+    "sha256": "51e3a1b1cffcf8392b5a1ba56d7dd5468f3f9f51962ebcc17973a7d004885571",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Regional_Structure_Description_test.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Specific_Feature_Description_test.json": {
+    "sha256": "1922633893c56473d32cf7832c7db34fdd425ef497225646839aed1b0ea6645f",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Specific_Feature_Description_test.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Staging_test.json": {
+    "sha256": "d0ce01764ff146ae6fa88df44ccf70c8aa354ea49c78fa9a88b0caf2129460e5",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Staging_test.json"
+  },
+  "wsillava/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Treatment_Planing_test.json": {
+    "sha256": "b9160aa15982ab4807e1d684f6043f6daa1ea6735dd04ffb2ef56725a0c80286",
+    "url": "https://raw.githubusercontent.com/XinhengLyu/WSI-LLaVA/7a98bbcb8807a4396a4b971fc7ffaf05cb8f7f90/dataset/Treatment_Planing_test.json"
+  }
+}

@@ -1,0 +1,3688 @@
+{
+  "SlideInstruct_train_stage2_vqa.json": {
+    "2002": {
+      "sha256": "934139e9101f421cecca6602e829e5811e525e6f4b9ec0a664d12fe66af95e38",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which sentence best describes the spatial organization of the observed tumor cells? A. Tumor cells are uniformly distributed without evidence of clustering. B. Tumor cells form prominent microvascular proliferations all over the tissue. C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space. D. Tumor cells are organized into distinct lobules with clearly defined borders."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "2236": {
+      "sha256": "079b7ce8425af6603abd447308f644c62afb9f01109441dd126082e10b5ffaa8",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "How many axillary lymph nodes show metastasis in the left breast? A. 2 B. 3 C. 4 D. 5"
+        },
+        {
+          "role": "assistant",
+          "content": "C. 4"
+        }
+      ]
+    },
+    "3953": {
+      "sha256": "602f53b9bc3d840e4e6cb0510f634869ad867c9288a725045fe534794efd2fb3",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Based on the pathologic findings, which factor is most indicative of the patient's prognosis? A. Tumor size of 2.8 cm B. No vascular invasion C. Well-differentiated tumor grade D. Negative parenchymal margin"
+        },
+        {
+          "role": "assistant",
+          "content": "B. No vascular invasion"
+        }
+      ]
+    },
+    "4029": {
+      "sha256": "b62c43d6f8c7a3fd36bf356a803f8ccac2e6f22ec120bc2a8ac8408cc5d4f817",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which pathologic change is not observed in the histological sections? A. Necrosis B. Microvascular proliferation C. Moderate atypia D. Subarachnoid invasion"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Necrosis"
+        }
+      ]
+    },
+    "4275": {
+      "sha256": "7211cbedcbb1b5c54da938d27fb8880dd60f71263516e739334aa38ddb37f08b",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which pathologic change is not observed in the histological sections? A. Necrosis B. Microvascular proliferation C. Moderate atypia D. Subarachnoid invasion"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Necrosis"
+        }
+      ]
+    },
+    "6258": {
+      "sha256": "91cd6572f0db59c18da97fe93daaf36126ad056354db4ee82efcf94fb7c7f112",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which biomarker, when methylated, indicates better prognosis and response to treatment in glioma patients? A. MGMT promoter B. EGFR C. VEGF D. PD-L1"
+        },
+        {
+          "role": "assistant",
+          "content": "A: MGMT promoter"
+        }
+      ]
+    },
+    "6378": {
+      "sha256": "183f13c65444ccf1cdbe3d4a825c41c497fdb2eb8ec4382b7f43db18200e302a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "How would you describe the degree of cellular atypia in the histological sections? A. Atypia is severe throughout the entire section. B. Atypia is mild but focally moderate. C. Atypia is mild with no focal moderate areas. D. There is no atypia observed in the tissue sections."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Atypia is mild but focally moderate"
+        }
+      ]
+    },
+    "8859": {
+      "sha256": "08dec4f5c8cce794567b1c536374d0601b4441fec91f5bff5cfd799fb71ede9c",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the grade of the urothelial carcinoma found in the bladder? A. Grade 1 B. Grade 2 C. Grades 3 & 4 D. Grade 4 only"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Grades 3 & 4"
+        }
+      ]
+    },
+    "9335": {
+      "sha256": "bf46e731131cfb6cca3002569c6b6aab5f35ea0ace52d593dd5390a10898d494",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What complication is patients with papillary adenocarcinoma of the lung with lymphatic involvement at increased risk for? A. Local infection B. Distant metastasis C. Pleural effusion D. Lung collapse"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Distant metastasis"
+        }
+      ]
+    },
+    "9793": {
+      "sha256": "26ca84757322ef07c7d63691ab3f824e096fcc08259c6fb0a1172e18b99356c2",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of cells were noted in the hypercellular glial neoplasm? A. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendrocytes. B. Ependymal cells, microglia, protoplasmic astrocytes, and gemistocytes. C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. D. Microglia, oligodendroglial cells, protoplasmic astrocytes, and fibrous astrocytes."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "10077": {
+      "sha256": "1a17bed4624622d4a6b96144001f3ccd75d73edecfd5aae5f26a72c7fd05ed8d",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which additional feature, if present, would suggest upgrading the left frontal tumor to WHO Grade IV? A. Increased eosinophilic cytoplasm B. Necrosis and microvascular proliferation"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Necrosis and microvascular proliferation"
+        }
+      ]
+    },
+    "10589": {
+      "sha256": "b4562ae232ad5694e44c9a4a82f7180828401a1faf84df8fca5362f6f566493a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "TTF1 positivity in immunohistochemical staining is indicative of which lung cancer type? A. Adenocarcinoma B. Squamous cell carcinoma C. Small cell carcinoma D. Basal cell carcinoma"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Adenocarcinoma"
+        }
+      ]
+    },
+    "10896": {
+      "sha256": "7e91ce759629efa929acbe82bb3b700bfd26c8c97db4ef23142e5fd370c7cfe2",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which sentence best describes the spatial organization of the observed tumor cells? A. Tumor cells are uniformly distributed without evidence of clustering. B. Tumor cells form prominent microvascular proliferations all over the tissue. C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space. D. Tumor cells are organized into distinct lobules with clearly defined borders."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "11041": {
+      "sha256": "917b8568e053bdda66cbb06e0ae5cf18606ec650b5efa9e9c882603531a4c08b",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "In which scenario would adjuvant chemotherapy be considered after surgical resection for stage IB lung cancer? A. If there is node involvement B. For all cases of stage IB lung cancer C.In the presence of certain high-risk features D. If the patient requests it"
+        },
+        {
+          "role": "assistant",
+          "content": "C"
+        }
+      ]
+    },
+    "11744": {
+      "sha256": "0b5cc22c70ecb6a238cd0978648fa954f5bd58dceaa67a5657249e34f043a509",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which nuclear feature is most commonly observed in melanocytes of epithelioid melanoma? A. Bland, small nuclei with uniform chromatin B. Hyperchromatic nuclei with prominent nucleoli C. Nuclei with histiocytoid features D. Nuclei with granular chromatin and inconspicuous nucleoli"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Hyperchromatic nuclei with prominent nucleoli"
+        }
+      ]
+    },
+    "14158": {
+      "sha256": "c360129f15873ddc4811dea6ba51f886c8d4eb5d9a252244ffbc0f52484e6eb8",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the 5-year survival rate for patients diagnosed with stage IB non-small cell lung cancer? A. Approximately 92% B. Approximately 68% C. Approximately 43% D. Approximately 25%"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Approximately 68%"
+        }
+      ]
+    },
+    "15378": {
+      "sha256": "bec138d8ddfaac5c3332bdf3af27f6be6c420a382220bb12e36282b486c4867c",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the recommended first-line treatment option for a patient with moderately differentiated keratinizing squamous cell carcinoma of the lung (Stage pT2a, pN1)? A. Radiation therapy alone B. Surgery followed by chemotherapy C. Chemotherapy alone D. Immunotherapy alone"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Surgery followed by chemotherapy"
+        }
+      ]
+    },
+    "17766": {
+      "sha256": "0e8f1694d922402038c279d2bfc2833b7240102c58aba1aa4c4348170549658a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Given the presence of metastatic squamous cell carcinoma in 1 out of 3 right neck lymph nodes (level 2), what additional treatment should be considered postoperatively? A. No further treatment needed B. Adjuvant chemotherapy alone C. Adjuvant radiotherapy D. Adjuvant chemoradiotherapy"
+        },
+        {
+          "role": "assistant",
+          "content": "D. Adjuvant chemoradiotherapy"
+        }
+      ]
+    },
+    "18127": {
+      "sha256": "e9cb94a2ef87ac03a787af943056f5f3bf098e65d90d066528f95643edb1e443",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which biomarker is most relevant in assessing the prognosis of squamous cell carcinoma of the lung? A. PD-L1 expression B. HER2/neu overexpression C. BRAF V600E mutation D. CA-125 levels"
+        },
+        {
+          "role": "assistant",
+          "content": "A"
+        }
+      ]
+    },
+    "19446": {
+      "sha256": "6499836da99533b78c98e8c45d1c6e15401be0707f48eb538cb18bc4608eba49",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which characteristic of the tumor indicates its high-grade (grade III) nature? A. Presence of necrosis and severe cellular atypia. B. Frequent mitotic figures and extensive necrosis. C. Microvascular proliferation without necrosis and focal moderate atypia. D. Absence of mitotic figures and mild cellular atypia."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Microvascular proliferation without necrosis and focal moderate atypia"
+        }
+      ]
+    },
+    "21295": {
+      "sha256": "0324b8ca2770039edf008951a6e2c602374139d62c4e1bebc0d75d0a6ed1e0b1",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Based on the histological features and clinical information provided, which disease is indicated in the patient's right breast? A. Atypical ductal hyperplasia with microcalcifications B. Infiltrating ductal carcinoma C. In situ ductal carcinoma D. Lobular carcinoma in situ"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Atypical ductal hyperplasia with microcalcifications"
+        }
+      ]
+    },
+    "22134": {
+      "sha256": "6fca6e0affda303f1601d9df0df36c10e64dc0642c5cb351d8f6a209dd29719b",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the role of MGMT promoter methylation in the treatment of anaplastic oligodendroglioma? A. Predicts response to alkylating agents like temozolomide B. Indicates a need for increased radiation dose C. Suggests the tumor will be resistant to all chemotherapies D. Is only used for diagnostic purposes, not treatment planning"
+        },
+        {
+          "role": "assistant",
+          "content": "A: Predicts response to alkylating agents like temozolomide"
+        }
+      ]
+    },
+    "26615": {
+      "sha256": "32b3e8650dfde126627a22716a97e8d3b26bfa53ceba9e4a603c868e134e7ee0",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What best describes the overall tissue architecture observed in the sections? A. A highly organized and regular tissue structure with clear layer differentiation. B. A disorganized and infiltrative pattern with clusters of hypercellularity. C. A completely necrotic tissue without signs of any cellular structures. D. A structure dominated by fibrous tissue with minimal cellular presence."
+        },
+        {
+          "role": "assistant",
+          "content": "B. A disorganized and infiltrative pattern with clusters of hypercellularity"
+        }
+      ]
+    },
+    "27340": {
+      "sha256": "fdfa9e923b2834c3aed546970581b64474476d64c51c660423fb73600a1bc0c8",
+      "conversations": null
+    },
+    "27839": {
+      "sha256": "81b03dbb2fdcf8143d0a5720b625f0919f24efb859cf8711faf0ff315a0ee5a7",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the predicted 5-year survival rate for a patient with a well-differentiated pT1b lung adenocarcinoma without lymph-vascular invasion? A. 30-40% B. 50-60% C. 70-80% D. 90-100%"
+        },
+        {
+          "role": "assistant",
+          "content": "C. 70-80%"
+        }
+      ]
+    },
+    "27968": {
+      "sha256": "c370278d81bd1817cbca96f2a1421409619c43e25847b588a552faca56bb3628",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which feature is typical of invasive adenocarcinoma of the lung as opposed to in situ adenocarcinoma? A. Presence of mitotic figures B. Growth along alveolar structures C. Invasion into the visceral pleura D. Uniform cell morphology"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Invasion into the visceral pleura"
+        }
+      ]
+    },
+    "28438": {
+      "sha256": "4bafa28146baa1548765b02611f47a399b24b5a81028a027c606ee41de5fd326",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which characteristic of the tumor indicates its high-grade (grade III) nature? A. Presence of necrosis and severe cellular atypia. B. Frequent mitotic figures and extensive necrosis. C. Microvascular proliferation without necrosis and focal moderate atypia. D. Absence of mitotic figures and mild cellular atypia."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Microvascular proliferation without necrosis and focal moderate atypia"
+        }
+      ]
+    },
+    "29196": {
+      "sha256": "bff2ccd33c2b5da3baee1737c447ebdb16a901650f4d873243899981bc840865",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which biomarker can be used to predict response to targeted therapy in non-small cell lung cancer? A. EGFR mutation B. BRCA1/2 mutation C. TP53 mutation D. MSI-H status"
+        },
+        {
+          "role": "assistant",
+          "content": "A. EGFR mutation"
+        }
+      ]
+    },
+    "31103": {
+      "sha256": "52b74b6be67c7d3fe3204bd4873f5e02cd125878fe55e3d4bb1148d7b9dac5a7",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the significance of EGFR mutations in lung adenocarcinoma treatment? A. They indicate a poorer prognosis. B. They suggest potential resistance to chemotherapy. C. They guide the use of EGFR tyrosine kinase inhibitors. D. They are associated with a higher likelihood of metastasis."
+        },
+        {
+          "role": "assistant",
+          "content": "C. They guide the use of EGFR tyrosine kinase inhibitors"
+        }
+      ]
+    },
+    "32794": {
+      "sha256": "7edbf8ae8108c91711c32feff3a049a06445e2f6ac594ba35f6ee0117c0aaf96",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of alteration indicates the presence of invasive behavior in the tumor? A. Presence of normal tissue architecture. B. Subpial accumulation and invasion into the subarachnoid space. C. Absence of mitotic figures. D. Presence of widespread necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "33184": {
+      "sha256": "3b68853614e48160c7be8acf2b5c75f7207bad4055c28c76b54bcd89ae8b6709",
+      "conversations": null
+    },
+    "34085": {
+      "sha256": "8ccf1f56fdb5a35ebb2117f84a42f75b3f01f12a1fbd0f0c48940cdc37a81d3e",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the pathologic stage (pTNM) of the colonic adenocarcinoma? A. pT1 N0 MX B. pT2 N1 MX"
+        },
+        {
+          "role": "assistant",
+          "content": "B. pT2 N1 MX"
+        }
+      ]
+    },
+    "35861": {
+      "sha256": "a40bfac7a969d17893c67a3f7631fb02c4757bdd27a80f96b4589879f7d69cb9",
+      "conversations": null
+    },
+    "36074": {
+      "sha256": "17462a45e4850a84ffe34d76f32d5575c42e1d06477ac2b531df6c52c5d8d9ba",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which genetic mutation is commonly associated with squamous cell carcinoma of the lung? A. EGFR mutation B. KRAS mutation C. ALK rearrangements D. TP53 mutation"
+        },
+        {
+          "role": "assistant",
+          "content": "D. TP53 mutation"
+        }
+      ]
+    },
+    "37114": {
+      "sha256": "2dc6206e4a896da66ceaaf5da4edac46320b634432a680d69dbfda06615ec7a9",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which histopathological feature is most associated with high-grade gliomas like anaplastic oligodendroglioma? A. Perinuclear clearing B. Microvascular proliferation C. Frequent calcospherites D. Presence of GFAP positive cells"
+        },
+        {
+          "role": "assistant",
+          "content": "B: Microvascular proliferation"
+        }
+      ]
+    },
+    "37130": {
+      "sha256": "306920f733317245af5a6c0500ee8186352285875b7d04239ca939faa57efdac",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which type of adenocarcinoma is present in the specimen? A. Well differentiated B. Moderately differentiated"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Moderately differentiated"
+        }
+      ]
+    },
+    "38108": {
+      "sha256": "c3034547aaafeec52c3aa971b027c7661cb3cfddc7f4278305e259823b4c21c7",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which biomarker is often evaluated for targeted therapy decisions in non-small cell lung cancer? A. EGFR mutation B. CEA levels C. PSA levels D. HCG levels"
+        },
+        {
+          "role": "assistant",
+          "content": "A. EGFR mutation"
+        }
+      ]
+    },
+    "38454": {
+      "sha256": "67d9088f8f15e7aa15a994d6859226e497cf2801d23ca4a3a88c9acd5ea6e749",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which of the following features is most indicative of the spatial organization in a glioblastoma sample? A. Presence of rosettes forming around vessels B. Palisading necrosis with surrounding hypercellular regions"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Palisading necrosis with surrounding hypercellular regions"
+        }
+      ]
+    },
+    "40545": {
+      "sha256": "425566ef2ea2d2223a427c98f4fd6c3aaae8921f049ccfc539630079241ef82a",
+      "conversations": null
+    },
+    "40888": {
+      "sha256": "f2c0975e3c0afad51608bfc5f97df44c021b464b7e8903a18d5fae1bab6cf04a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What feature differentiates this tumor type as an Anaplastic Oligoastrocytoma? A. Exclusive presence of gemistocytes and oligodendroglioma cells. B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. C. Necrosis and extensive proliferation of glial cells. D. Predominantly oligodendroglioma cells with extensive necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "41646": {
+      "sha256": "5311e1641ecb46b65a8ea59158ab87d2396a70b6154b16e43434f335c890c4de",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "When assessing a glioblastoma, which of the following features is least likely to be observed? A. Microvascular proliferation B. Basal cell layer with palisading nuclei"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Basal cell layer with palisading nuclei"
+        }
+      ]
+    },
+    "42423": {
+      "sha256": "54cec2d795e63cbd072e50075890c39fbd0499154d53720875ca1fc608442949",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What finding in the left breast could indicate a differential diagnosis between two potential foci arising from ductal carcinoma in situ or a focus of lymphovascular invasion? A. Benign fibroadenoma B. Fibroadenomatous change C. Negative for in situ carcinoma D. Presence of ductal carcinoma in situ and carcinoma in lymphatic spaces"
+        },
+        {
+          "role": "assistant",
+          "content": "D. Presence of ductal carcinoma in situ and carcinoma in lymphatic spaces"
+        }
+      ]
+    },
+    "43541": {
+      "sha256": "8976bc88c272f9632406e1fe29eb9e9a637c11dc82af27075d0c7f2352b3df6a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What feature differentiates this tumor type as an Anaplastic Oligoastrocytoma? A. Exclusive presence of gemistocytes and oligodendroglioma cells. B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. C. Necrosis and extensive proliferation of glial cells. D. Predominantly oligodendroglioma cells with extensive necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "43641": {
+      "sha256": "02058164756fde0ff20b7f0a33d86be166189f30885254c4ef996fc8a018fae7",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which finding supports the diagnosis of Anaplastic Astrocytoma in the left frontal tumor? A. Negative Chromogranin staining B. Positive GFAP staining"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Positive GFAP staining"
+        }
+      ]
+    },
+    "46916": {
+      "sha256": "54ed6332919227fe320b291dcfe1bb6e59149f255ba860ac3b3f647f8615e105",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What best describes the overall tissue architecture observed in the sections? A. A highly organized and regular tissue structure with clear layer differentiation. B. A disorganized and infiltrative pattern with clusters of hypercellularity. C. A completely necrotic tissue without signs of any cellular structures. D. A structure dominated by fibrous tissue with minimal cellular presence."
+        },
+        {
+          "role": "assistant",
+          "content": "B. A disorganized and infiltrative pattern with clusters of hypercellularity"
+        }
+      ]
+    },
+    "50040": {
+      "sha256": "918706816112d02a44084dac5a8674b7acbeef621c621a2f6e898eacb73e3918",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of alteration indicates the presence of invasive behavior in the tumor? A. Presence of normal tissue architecture. B. Subpial accumulation and invasion into the subarachnoid space. C. Absence of mitotic figures. D. Presence of widespread necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "53659": {
+      "sha256": "ec80390bf0f14ace0f2a0bea6ca4d7939239ac88314a977a87b4f4adab3a202a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the histological grade of the colonic adenocarcinoma? A. High-grade B. Low-grade"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Low-grade"
+        }
+      ]
+    },
+    "53775": {
+      "sha256": "1fc36d6652ea304da5a30a62fb4ab2a9e8a9f9e9615ce56352019f808ce7402d",
+      "conversations": null
+    },
+    "55822": {
+      "sha256": "ee8865f02e0394969cded2a8111d352c5a6641c661e5fa57ea0e5a69a4a82e53",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What best describes the overall tissue architecture observed in the sections? A. A highly organized and regular tissue structure with clear layer differentiation. B. A disorganized and infiltrative pattern with clusters of hypercellularity. C. A completely necrotic tissue without signs of any cellular structures. D. A structure dominated by fibrous tissue with minimal cellular presence."
+        },
+        {
+          "role": "assistant",
+          "content": "B. A disorganized and infiltrative pattern with clusters of hypercellularity"
+        }
+      ]
+    },
+    "56315": {
+      "sha256": "cf069490291a2a974dab835dad4279f25391a56cedbb0144cb4b7f16df8217cd",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "How would you describe the degree of cellular atypia in the histological sections? A. Atypia is severe throughout the entire section. B. Atypia is mild but focally moderate. C. Atypia is mild with no focal moderate areas. D. There is no atypia observed in the tissue sections."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Atypia is mild but focally moderate"
+        }
+      ]
+    },
+    "57678": {
+      "sha256": "6c10f8955a6d79fca248e5079c8a953a46667bd81e53d0e1a8eee9d3e141ff9f",
+      "conversations": null
+    },
+    "57723": {
+      "sha256": "89c99b37b4a60f21c9568e102c9a73a602ccdd5257d0bdd509a87cc355aeb2aa",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What histologic pattern is observed in the non-invasive component of the urothelial carcinoma?"
+        },
+        {
+          "role": "assistant",
+          "content": "Papillary and flat"
+        }
+      ]
+    },
+    "60200": {
+      "sha256": "3c280fb45dbf7c7dc4961281847a912fce26c89fadaa77fd7dc1a57c6f2f6f47",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the recommended first-line treatment for poorly differentiated adenocarcinoma of the lung? A. Surgical resection B. Radiation therapy C. Chemotherapy D. Watchful waiting"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Surgical resection"
+        }
+      ]
+    },
+    "61481": {
+      "sha256": "888163f6616773796cb0d6c5b41b1503ac4ef3d64ce304b1fd2ae3cdd4edc1e0",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which histopathological change is least likely observed in an advanced melanoma? A. Dermal inflammation B. Fibrosis surrounding the tumor C. Extensive necrosis D. Granulomatous inflammation"
+        },
+        {
+          "role": "assistant",
+          "content": "D. Granulomatous inflammation"
+        }
+      ]
+    },
+    "61927": {
+      "sha256": "1009851f800fb24c286cb38a852539caea030abd4e3250e1464ace6c2bd2ccd6",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of alteration indicates the presence of invasive behavior in the tumor? A. Presence of normal tissue architecture. B. Subpial accumulation and invasion into the subarachnoid space. C. Absence of mitotic figures. D. Presence of widespread necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "65267": {
+      "sha256": "fb83f4b1232b4bf819da49ffbd3efd28189db14470c49e46fff75cc1fea59b1f",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which arrangement best describes the tumor cells in a melanoma with a Clark level V? A. Tumor cells arranged in nests invading the entire dermis B. Tumor cells confined to the epidermis only C. Tumor cells invading the papillary dermis but not the reticular dermis D. Tumor cells invading only the superficial dermis"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Tumor cells arranged in nests invading the entire dermis"
+        }
+      ]
+    },
+    "65954": {
+      "sha256": "a90bc006e1c0d052a86359bfe2861a2315a940da0ac8644cd9607e104d9273fb",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What best describes the overall tissue architecture observed in the sections? A. A highly organized and regular tissue structure with clear layer differentiation. B. A disorganized and infiltrative pattern with clusters of hypercellularity. C. A completely necrotic tissue without signs of any cellular structures. D. A structure dominated by fibrous tissue with minimal cellular presence."
+        },
+        {
+          "role": "assistant",
+          "content": "B. A disorganized and infiltrative pattern with clusters of hypercellularity"
+        }
+      ]
+    },
+    "66090": {
+      "sha256": "0c062d6b5146a84e6f98f7b58c890116417d4cf138180e0bf71e3259e814c933",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which feature is a key indicator of invasive melanoma on histology slides? A. Nests of cells in the epidermis only B. Pagetoid spread in the dermis C. Vertical growth phase with infiltration into the dermis D. Papillary dermis invasion only"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Vertical growth phase with infiltration into the dermis"
+        }
+      ]
+    },
+    "67929": {
+      "sha256": "c0ec1aa65a2f6c0b9996d17aefb693040bc5f82f8ec0c7275af0c41cde368d04",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the most likely diagnosis based on the histological features and immunohistochemical stains of the left frontal tumor? A. Anaplastic Astrocytoma, WHO Grade III B. Oligodendroglioma"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Anaplastic Astrocytoma, WHO Grade III"
+        }
+      ]
+    },
+    "69862": {
+      "sha256": "e6ce183c31a9f0e92f6c5f5b17159851aa1bd7eb8691e9ea97cfdf384a487c53",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the most appropriate first-line treatment option for a patient diagnosed with anaplastic oligodendroglioma (WHO Grade III), assuming standard guidelines are followed? A. Surgical resection followed by radiation therapy and temozolomide B. Radiation therapy alone C. Chemotherapy alone D. Observation and regular follow-up"
+        },
+        {
+          "role": "assistant",
+          "content": "A: Surgical resection followed by radiation therapy and temozolomide"
+        }
+      ]
+    },
+    "71861": {
+      "sha256": "22460e33aaed8bb0741238c751dcf46559ebdc9394301a0338551318352c7719",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which genetic mutation is most commonly associated with an increased risk of squamous cell carcinoma? A. BRCA1 B. BRAF C. TP53 D. KRAS"
+        },
+        {
+          "role": "assistant",
+          "content": "C. TP53"
+        }
+      ]
+    },
+    "73157": {
+      "sha256": "646b1b008ee3c81c59d6f1d7c52a5db7fcadf0d812d40ca43702c9c5c64fb97c",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Based on the given histological features, what is the most likely diagnosis? A. Moderately differentiated colonic adenocarcinoma B. Benign colonic polyp"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Moderately differentiated colonic adenocarcinoma"
+        }
+      ]
+    },
+    "73207": {
+      "sha256": "77b2d800fb859b0bfa9db540adb68613e7a2f7fd9b6be2f778676be110cd8596",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which of the following is a major risk factor for developing lung adenocarcinoma? A. Hypertension B. Smoking C. Diabetes D. Obesity"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Smoking"
+        }
+      ]
+    },
+    "74503": {
+      "sha256": "c75dccae988674c5f792cf1c024f8a52273d76fc39f5609345967161d0151c4f",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Genetic mutation in which gene is most commonly associated with lung cancer development? A. EGFR B. BRCA1 C. KRAS D. TP53"
+        },
+        {
+          "role": "assistant",
+          "content": "D. TP53"
+        }
+      ]
+    },
+    "75310": {
+      "sha256": "7d6a10a1440a17320ac0abc2d9134fc6acd2af78faa19663c063336f3da3e687",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What blood biomarker can be tracked during follow-up to monitor potential recurrence in a patient treated for squamous cell carcinoma of the floor of the mouth? A. CEA B. CA-125 C. SCC antigen D. PSA"
+        },
+        {
+          "role": "assistant",
+          "content": "C. SCC antigen"
+        }
+      ]
+    },
+    "75724": {
+      "sha256": "c45555ae05fcc3fccfbb3f488e0c7ac6d1941b991575580444e8819f7e6777cd",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which lifestyle factor is most significantly associated with the risk of developing squamous cell carcinoma of the oral cavity? A. Diet low in fruits and vegetables B. Cigarette smoking C. Sedentary lifestyle D. High sugar intake"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Cigarette smoking"
+        }
+      ]
+    },
+    "76235": {
+      "sha256": "233ec5dee7c4bbffa1d0c8682c958b3bfdd3179794693b564bfe027263349f70",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which characteristic of the tumor indicates its high-grade (grade III) nature? A. Presence of necrosis and severe cellular atypia. B. Frequent mitotic figures and extensive necrosis. C. Microvascular proliferation without necrosis and focal moderate atypia. D. Absence of mitotic figures and mild cellular atypia."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Microvascular proliferation without necrosis and focal moderate atypia"
+        }
+      ]
+    },
+    "77085": {
+      "sha256": "832e50e2fe1cc25ce69549be64cb616345d944bda131b630b678df252211635e",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which biomarker is typically overexpressed in the majority of head and neck squamous cell carcinomas and relates to disease prognosis? A. HER2 B. PD-L1 C. ALK D. EGFR"
+        },
+        {
+          "role": "assistant",
+          "content": "D. EGFR"
+        }
+      ]
+    },
+    "77556": {
+      "sha256": "453b7a57d50e44f58432998f8bd5c9d270e93e09e8660ab21137fd2874bd1990",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What feature differentiates this tumor type as an Anaplastic Oligoastrocytoma? A. Exclusive presence of gemistocytes and oligodendroglioma cells. B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. C. Necrosis and extensive proliferation of glial cells. D. Predominantly oligodendroglioma cells with extensive necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "80513": {
+      "sha256": "decb684a25e8ecd2d609ecb1ca3bd1a2d1b405ac99beefe4119ab61d7c348236",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which of the following is a major risk factor for developing squamous cell carcinoma of the lung? A. Family history of lung cancer B. Smoking tobacco C. Exposure to radon gas D. Previous lung infections"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Smoking tobacco"
+        }
+      ]
+    },
+    "81428": {
+      "sha256": "18289b4050bd94cbe4dee6d5089d58ed28ccfec97f7a02e36089902744243ccc",
+      "conversations": null
+    },
+    "81521": {
+      "sha256": "06664d434e5e153675234d8e945b0a157b1b17d0bee7ccfdc9db8d43a718a7bf",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which of the following is not a risk factor commonly associated with lung adenocarcinoma? A. Tobacco smoking B. Asbestos exposure C. Genetic mutations D. Excessive alcohol consumption"
+        },
+        {
+          "role": "assistant",
+          "content": "D. Excessive alcohol consumption"
+        }
+      ]
+    },
+    "84226": {
+      "sha256": "8e20909a8fdcc9ea286c2abb2318433955261d35e8e48a44bb7b011a4502de25",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What lifestyle factor is most commonly associated with an increased risk of brain tumors? A. Smoking B. Alcohol consumption C. High-fat diet D. High exposure to radiofrequency radiation"
+        },
+        {
+          "role": "assistant",
+          "content": "D: High exposure to radiofrequency radiation"
+        }
+      ]
+    },
+    "85962": {
+      "sha256": "d62687050b1043be66113078dedf60c3d8ce762e50fa71116cde5ba6ac75c810",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the typical prognosis for a patient with moderately to poorly differentiated invasive squamous carcinoma with negative margins after resection? A. Excellent, with a high probability of complete cure B. Good, with a low probability of recurrence C. Moderate, with risk of recurrence and need for close follow-up D. Poor, with a high probability of rapid recurrence"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Moderate, with risk of recurrence and need for close follow-up"
+        }
+      ]
+    },
+    "87113": {
+      "sha256": "21a430836e2b969b0b86ec1fe141ef925b8cf3ff0138da9dee1ddd0e9f0788d5",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which histopathological change is indicative of chronic inflammation in a lymph node? A. Germinal center hyperplasia B. Extensive necrosis C. Fibrosis with granulomas D. Diffuse infiltration by eosinophils"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Germinal center hyperplasia"
+        }
+      ]
+    },
+    "87180": {
+      "sha256": "e329a3ab50a62d58007c2b975d2633014e85f1c542654199fa3b237a2b608a9f",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which finding would be inconsistent with a Stage I classification of a glial tumor? A. Localized non-enhancing lesion B. Involvement of adjacent brain structures"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Involvement of adjacent brain structures"
+        }
+      ]
+    },
+    "87539": {
+      "sha256": "7b3e3d64627d92d228895077998da322064cfe21d671ac03ca4c9f35b9096df2",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which characteristic of the tumor indicates its high-grade (grade III) nature? A. Presence of necrosis and severe cellular atypia. B. Frequent mitotic figures and extensive necrosis. C. Microvascular proliferation without necrosis and focal moderate atypia. D. Absence of mitotic figures and mild cellular atypia."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Microvascular proliferation without necrosis and focal moderate atypia"
+        }
+      ]
+    },
+    "87942": {
+      "sha256": "7d50d1e5ba77612d17a7bf0f2c0603d5221cc75f9d1c736e18d67dd5f8d0951e",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which sentence best describes the spatial organization of the observed tumor cells? A. Tumor cells are uniformly distributed without evidence of clustering. B. Tumor cells form prominent microvascular proliferations all over the tissue. C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space. D. Tumor cells are organized into distinct lobules with clearly defined borders."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "88135": {
+      "sha256": "47f29f18f0273ed4c49b3faea36277902c12d64450b8c4a150984d4d8be0f266",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the most appropriate initial treatment option for a patient with stage IB squamous cell carcinoma of the lung? A. Surgical resection B. Chemotherapy C. Radiation therapy D. Targeted therapy"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Surgical resection"
+        }
+      ]
+    },
+    "88579": {
+      "sha256": "ba19ffc019eeed586903acf638b8dc0e3490aaecc575e9782546cbcd629b0e06",
+      "conversations": null
+    },
+    "90359": {
+      "sha256": "8855a32967b12f2435ba494ffd13265d9e6b6822258322c9b0543e87cc78f8e7",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which of the following findings helps differentiate between multiple potential conditions in the diagnosis of infiltrating ductal carcinoma with micropapillary features in the left breast? A. Skeletal muscle tissue showing no carcinoma B. Extensive intraductal component C. Micropapillary features D. Benign cystic fluid-filled lactiferous ducts"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Micropapillary features"
+        }
+      ]
+    },
+    "90454": {
+      "sha256": "22e77fee72412c9df57f0b4cb253206d5d70105a46f27d9a6a29dfee3229872e",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What tissue reaction is commonly seen around the melanoma tissue? A. Granulomatous inflammation B. Peritumoral fibrosis C. Abscess formation D. Hyalinization"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Peritumoral fibrosis"
+        }
+      ]
+    },
+    "93826": {
+      "sha256": "eee91b1145d2c61c39fc2373593289757ca31273e030c540a49ea875cfe2d28c",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of alteration indicates the presence of invasive behavior in the tumor? A. Presence of normal tissue architecture. B. Subpial accumulation and invasion into the subarachnoid space. C. Absence of mitotic figures. D. Presence of widespread necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "94817": {
+      "sha256": "bcc768e0fc804f5adfea394cbbc0380306f9ba308e255e3bdf8e100f7e25d079",
+      "conversations": null
+    },
+    "95618": {
+      "sha256": "629be7e2226311802d8aa17d865569513fe610ba4c4f915defb280a13dbea66a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "How would you describe the degree of cellular atypia in the histological sections? A. Atypia is severe throughout the entire section. B. Atypia is mild but focally moderate. C. Atypia is mild with no focal moderate areas. D. There is no atypia observed in the tissue sections."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Atypia is mild but focally moderate"
+        }
+      ]
+    },
+    "96245": {
+      "sha256": "b5e513543f26a17a6515e72561277508b227e379f71b745ec98dd7450ba16010",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of cells were noted in the hypercellular glial neoplasm? A. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendrocytes. B. Ependymal cells, microglia, protoplasmic astrocytes, and gemistocytes. C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. D. Microglia, oligodendroglial cells, protoplasmic astrocytes, and fibrous astrocytes."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "96590": {
+      "sha256": "4b1a954beeadc9f520290149ab38e2e78c06d95186c39d00fe74511e7ba7169d",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Based on the histological criteria, what grade has been assigned to the primary breast tumor in the left breast? A. Grade 1 B. Grade 2 C. Grade 3 D. Grade 4"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Grade 3"
+        }
+      ]
+    },
+    "96602": {
+      "sha256": "5a84cc0bbd8cf9a5a305ae3d3dd10d2c2849a1ee513dc3f902e6536ad664249b",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which characteristic of the tumor indicates its high-grade (grade III) nature? A. Presence of necrosis and severe cellular atypia. B. Frequent mitotic figures and extensive necrosis. C. Microvascular proliferation without necrosis and focal moderate atypia. D. Absence of mitotic figures and mild cellular atypia."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Microvascular proliferation without necrosis and focal moderate atypia"
+        }
+      ]
+    },
+    "98313": {
+      "sha256": "80f12e68c41a8cbe93938c672bc0c64064a0b5aae659c51646de7d1d294fe10c",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which sentence best describes the spatial organization of the observed tumor cells? A. Tumor cells are uniformly distributed without evidence of clustering. B. Tumor cells form prominent microvascular proliferations all over the tissue. C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space. D. Tumor cells are organized into distinct lobules with clearly defined borders."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "99312": {
+      "sha256": "0690e7c9144ff300f7abcc3dd173a39c806bab0f30066ab837bbeafdf7c6efcb",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of alteration indicates the presence of invasive behavior in the tumor? A. Presence of normal tissue architecture. B. Subpial accumulation and invasion into the subarachnoid space. C. Absence of mitotic figures. D. Presence of widespread necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "100246": {
+      "sha256": "451ef56109384b0b1f9bc533b3bded50a04123d11fcf66c372c32f2062ff3c07",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which cytomorphological characteristic is typical of epithelioid cell melanoma? A. Large, oval to round cells with abundant cytoplasm B. Small cells with scant cytoplasm and hyperchromatic nuclei C. Spindle-shaped cells with elongated nuclei D. Polygonal cells with indistinct cell boundaries"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Large, oval to round cells with abundant cytoplasm"
+        }
+      ]
+    },
+    "100789": {
+      "sha256": "78717bef1734f73fcca033340759e0bb20ef4afdafc3c7114827a855ba1c9570",
+      "conversations": null
+    },
+    "100851": {
+      "sha256": "e51090f0e88fd4f92659ca9cc862310c057a78c4686ced74592595bc743d258c",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which pathologic change is not observed in the histological sections? A. Necrosis B. Microvascular proliferation C. Moderate atypia D. Subarachnoid invasion"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Necrosis"
+        }
+      ]
+    },
+    "100922": {
+      "sha256": "b50995491b282a46ae80541b2000e75d4a6ed2b1fa127eecd06a9b3867377c08",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of alteration indicates the presence of invasive behavior in the tumor? A. Presence of normal tissue architecture. B. Subpial accumulation and invasion into the subarachnoid space. C. Absence of mitotic figures. D. Presence of widespread necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "100945": {
+      "sha256": "7ef354bfbabf99365a0d5444a2814b47d3693ebda62f7a484b73d0dd2c0b7ec4",
+      "conversations": null
+    },
+    "101830": {
+      "sha256": "804a995ff440a16156a0dfa6b2d0f0f9df78865362939f872af17fbe877dc2b0",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which biomarker is typically used to confirm the glial origin of tumor cells in brain pathology? A. GFAP B. CD163 C. Ki-67 D. p53"
+        },
+        {
+          "role": "assistant",
+          "content": "A: GFAP"
+        }
+      ]
+    },
+    "102498": {
+      "sha256": "fca4e8ebc0b7c13cd53174ded231be3ab8d5c00afcb079f3748a4c582ad2e66e",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which pathologic change is not observed in the histological sections? A. Necrosis B. Microvascular proliferation C. Moderate atypia D. Subarachnoid invasion"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Necrosis"
+        }
+      ]
+    },
+    "102591": {
+      "sha256": "0dcce629ef999f8aba20633b3204c5efec26db6d542407288b5262de705bf309",
+      "conversations": null
+    },
+    "103118": {
+      "sha256": "5e2c6f46a0b7e6c20d0e741e42f5a16696c9a3ea9dc44b46bdbca176cb573ee3",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the 5-year survival rate for patients with well-differentiated papillary lung adenocarcinoma with positive hilar lymph nodes? A. Around 25% B. Around 40% C. Around 55% D. Around 70%"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Around 55%"
+        }
+      ]
+    },
+    "104624": {
+      "sha256": "97632dc1f51bf0cfc79f907e2143250bc4d66db708c6287c855350ace89589d9",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of cells were noted in the hypercellular glial neoplasm? A. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendrocytes. B. Ependymal cells, microglia, protoplasmic astrocytes, and gemistocytes. C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. D. Microglia, oligodendroglial cells, protoplasmic astrocytes, and fibrous astrocytes."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "105763": {
+      "sha256": "4657d2b1c970a199ce56b62e8aff55c2a82c137ac9704bb5128e0e697bb012d7",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "How would you describe the degree of cellular atypia in the histological sections? A. Atypia is severe throughout the entire section. B. Atypia is mild but focally moderate. C. Atypia is mild with no focal moderate areas. D. There is no atypia observed in the tissue sections."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Atypia is mild but focally moderate"
+        }
+      ]
+    },
+    "108984": {
+      "sha256": "dbe85bde68d8297276dae3e3c8ea50df70c5ee21415a05507d5c00eee1c57f8c",
+      "conversations": null
+    },
+    "110005": {
+      "sha256": "679930a74638aec24d2734d3ace9eb6e6d60b6edf8c6300c7a9e8aef53667126",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What feature differentiates this tumor type as an Anaplastic Oligoastrocytoma? A. Exclusive presence of gemistocytes and oligodendroglioma cells. B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. C. Necrosis and extensive proliferation of glial cells. D. Predominantly oligodendroglioma cells with extensive necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "110149": {
+      "sha256": "2d82a39b44a272feac6880489947bbbe155da0b7f62ca5c493f3f811f101ac0b",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What role does PD-L1 expression play in the treatment of lung adenocarcinoma? A. Predicts response to chemotherapy B. Indicates a need for surgical intervention C. Guides the use of immunotherapy D. Recommends radiation therapy"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Guides the use of immunotherapy"
+        }
+      ]
+    },
+    "111394": {
+      "sha256": "bf032e2a7473d75c658f94f2dd4385f0fa33f75d4af1483c59b694a87f93f413",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which cytomorphological feature is characteristic of lung adenocarcinoma cells? A. Elongated nuclei with fine chromatin B. Round nuclei with prominent nucleoli and abundant cytoplasm C. Spindle-shaped nuclei with scant cytoplasm D. Small hyperchromatic nuclei with scant cytoplasm"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Round nuclei with prominent nucleoli and abundant cytoplasm"
+        }
+      ]
+    },
+    "111506": {
+      "sha256": "0f2ffe71595ac885e69536f50b3b2a07f2bd969b6343ed62d6474dcfe63a068a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "According to the TNM staging given, what pathological stage (pT) is assigned to the larger mass of the left breast tumor? A. pT1 B. pT2 C. pT3 D. pT4"
+        },
+        {
+          "role": "assistant",
+          "content": "B. pT2"
+        }
+      ]
+    },
+    "111962": {
+      "sha256": "37d182d7aab94d83c3b668649b0a5e72a36986446e9caadcd452a2f5688ed7ed",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which of the following is a known environmental risk factor for lung adenocarcinoma? A. Asbestos exposure B. High-fat diet C. Excessive alcohol consumption D. Human papillomavirus (HPV) infection"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Asbestos exposure"
+        }
+      ]
+    },
+    "112340": {
+      "sha256": "7f7a2ad7fae42e0d1a0990b34d9c730e545e11c4a204ddc239a2033080966846",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What histological diagnosis is suggested for the left breast based on the presence of extensive lymphovascular invasion and ductal carcinoma in situ? A. Invasive lobular carcinoma B. Invasive ductal carcinoma with micropapillary features C. Benign fibrocystic changes D. Fibroadenoma"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Invasive ductal carcinoma with micropapillary features"
+        }
+      ]
+    },
+    "113419": {
+      "sha256": "b62c251bcbfef878ed6506d41f1bc544e1fe8a8bdc7daacb2ef40f9cc445143b",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What architectural pattern is expected in normal lymph nodes under light microscopy? A. Germinal centers with well-defined cortical and paracortical areas B. Disorganized sheets of cells with scattered necrosis C. Loose aggregation of cells with abundant stroma D. Solid nests of cells without any recognizable structure"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Germinal centers with well-defined cortical and paracortical areas"
+        }
+      ]
+    },
+    "113865": {
+      "sha256": "db52d37acb901e6205c2021bcec404c63d5232a261561fc491fdb0e1994da87c",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the most crucial factor in deciding the treatment plan for this lung adenocarcinoma case? A. Tumor size B. Tumor grade C. Lymph node involvement D. Patient age"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Lymph node involvement"
+        }
+      ]
+    },
+    "115102": {
+      "sha256": "8417551579fd582503bdeada520dc408fd91e98dafc280d81ed6b0e0ad24c57f",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which biomarker is frequently used to confirm a diagnosis of lung adenocarcinoma? A. CK7 B. PSA C. ER D. CA-125"
+        },
+        {
+          "role": "assistant",
+          "content": "A. CK7"
+        }
+      ]
+    },
+    "116923": {
+      "sha256": "d617325c8b6d5edaa071d47e922020d93c9957744be48cec9f85590717deeb5a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which sentence best describes the spatial organization of the observed tumor cells? A. Tumor cells are uniformly distributed without evidence of clustering. B. Tumor cells form prominent microvascular proliferations all over the tissue. C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space. D. Tumor cells are organized into distinct lobules with clearly defined borders."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "117199": {
+      "sha256": "aa0df6f3d7f4aa43eda230999337b2f85099a412b1fc9370932af315d721a774",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What feature differentiates this tumor type as an Anaplastic Oligoastrocytoma? A. Exclusive presence of gemistocytes and oligodendroglioma cells. B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. C. Necrosis and extensive proliferation of glial cells. D. Predominantly oligodendroglioma cells with extensive necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "118802": {
+      "sha256": "fc2214f7c7ecc3618257900b136dce60293610f525c03c6f0012a6d9b7c53357",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of cells were noted in the hypercellular glial neoplasm? A. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendrocytes. B. Ependymal cells, microglia, protoplasmic astrocytes, and gemistocytes. C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. D. Microglia, oligodendroglial cells, protoplasmic astrocytes, and fibrous astrocytes."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "120816": {
+      "sha256": "ea6bf6882e08e1005ac2a0d476d5e5a6ecaec8547e788f61ea88f48bfea7ba91",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "A longstanding history of heavy smoking increases the risk for which type of lung cancer? A. Adenocarcinoma B. Small cell carcinoma C. Squamous cell carcinoma D. All of the above"
+        },
+        {
+          "role": "assistant",
+          "content": "D. All of the above"
+        }
+      ]
+    },
+    "121279": {
+      "sha256": "bfb76df63973ae3293c5bd13a0cd2ee008ac25c003409e83384af2e86395c292",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What histopathological feature would indicate the presence of necrosis in a lung tumor sample? A. Granulomatous inflammation B. Coagulative necrosis C. Inflammatory cell infiltration D. Fibrosis with calcification"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Coagulative necrosis"
+        }
+      ]
+    },
+    "121619": {
+      "sha256": "15a75053c88cbf2899923d33ea28d9df076ecc4f3ed40eb5e42d82e21df2f4ef",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which environmental exposure is most commonly linked to an increased risk of lung adenocarcinoma? A. Chronic exposure to radon gas B. High sugar intake C. Asbestos D. Lead paint"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Chronic exposure to radon gas"
+        }
+      ]
+    },
+    "122034": {
+      "sha256": "ccecadfb74d3c10a5f793c93a568194d85233028da3387969b1c45aa487b6bf5",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of cells were noted in the hypercellular glial neoplasm? A. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendrocytes. B. Ependymal cells, microglia, protoplasmic astrocytes, and gemistocytes. C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. D. Microglia, oligodendroglial cells, protoplasmic astrocytes, and fibrous astrocytes."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "122197": {
+      "sha256": "fffefeff5257c57091e4a9c502ce6b22f07e31bfead3400be14bd330e2308208",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of cells were noted in the hypercellular glial neoplasm? A. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendrocytes. B. Ependymal cells, microglia, protoplasmic astrocytes, and gemistocytes. C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. D. Microglia, oligodendroglial cells, protoplasmic astrocytes, and fibrous astrocytes."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "122381": {
+      "sha256": "5796a45f1c4e17cf299256496e13997ebc2b09a7c390200e1bbe289fe83fe2a3",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the most likely outcome for a patient with Stage IV lung adenocarcinoma? A. Curative surgery B. Palliative care C. Long-term remission with radiotherapy D. Complete remission with chemotherapy alone"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Palliative care"
+        }
+      ]
+    },
+    "124514": {
+      "sha256": "c4ba903d9b35c85050a90eb0a9529cc1e4159b9fb476060599d6b991454433f8",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "In melanomas with Clark level V, which histological feature might you NOT commonly observe? A. Tumor cells within the superficial dermis B. Tumor cells within the deep dermis C. Tumor cells confined to the epidermis D. Tumor cells invading the subcutaneous fat"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Tumor cells confined to the epidermis"
+        }
+      ]
+    },
+    "124960": {
+      "sha256": "eaaf570f6cfcda7e92bad48fcbb8ae0c084026daa1c2a73e48537b60d07eddd3",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "How would you describe the degree of cellular atypia in the histological sections? A. Atypia is severe throughout the entire section. B. Atypia is mild but focally moderate. C. Atypia is mild with no focal moderate areas. D. There is no atypia observed in the tissue sections."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Atypia is mild but focally moderate"
+        }
+      ]
+    },
+    "129027": {
+      "sha256": "23ca3c4ae201cd5e4ef09781299de17ea94adc3e0c2d3aa77692463041973db6",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which pathologic change is not observed in the histological sections? A. Necrosis B. Microvascular proliferation C. Moderate atypia D. Subarachnoid invasion"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Necrosis"
+        }
+      ]
+    },
+    "129654": {
+      "sha256": "40fbfd95eafaea580956fc652dfa39a16ae0673cbfe84c52943006e63dbaaad8",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the likely 5-year survival rate for a patient with moderately to poorly differentiated squamous cell carcinoma of the floor of the mouth? A. Above 90% B. 70-80% C. 50-60% D. Less than 30%"
+        },
+        {
+          "role": "assistant",
+          "content": "C"
+        }
+      ]
+    },
+    "129833": {
+      "sha256": "31b368d2dbf236ba8f4cd8a799ff873798715500bdc7dcbddc3df830095c7ccf",
+      "conversations": null
+    },
+    "134191": {
+      "sha256": "ff32d362800711d16119810242d4cafa736ff189c55bd3b5acd26b59c32cf8b0",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which of the following accurately describes tissue architecture in glioblastoma histology? A. Irregularly arranged astrocytic cells with necrosis and pseudopalisading pattern B. Uniformly arranged glial cells with clear cell boundaries"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Irregularly arranged astrocytic cells with necrosis and pseudopalisading pattern"
+        }
+      ]
+    },
+    "134417": {
+      "sha256": "ea48084c0b84ef794d62bf48dfcafac8f51612d3f711bd5aff1f99899a2186b1",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What pattern of invasion is typically seen in epithelioid cell melanoma? A. Micro-papillary invasion B. Single-cell infiltration C. Cohesive nest of cells infiltrating the dermis D. In-situ growth with pagetoid spread"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Cohesive nest of cells infiltrating the dermis"
+        }
+      ]
+    },
+    "134700": {
+      "sha256": "6b610711c7c1f93872a7f6afbbfbd3d93b653e5f5c563e85729411d37c0c8e31",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which histopathological change was observed at the trigone/bladder neck? A. Urothelial carcinoma with extensive invasion B. Acute and chronic inflammation with associated urothelial atypia, favor reactive C. No histopathological changes observed D. Benign cyst formation"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Acute and chronic inflammation with associated urothelial atypia, favor reactive"
+        }
+      ]
+    },
+    "135295": {
+      "sha256": "6f2bced2dfef948c371c0a429f38fcb526e6ebb98e1ed9e548f6ff602979f46e",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which characteristic of the tumor indicates its high-grade (grade III) nature? A. Presence of necrosis and severe cellular atypia. B. Frequent mitotic figures and extensive necrosis. C. Microvascular proliferation without necrosis and focal moderate atypia. D. Absence of mitotic figures and mild cellular atypia."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Microvascular proliferation without necrosis and focal moderate atypia"
+        }
+      ]
+    },
+    "135301": {
+      "sha256": "dc6555763190d21877f15e796661c86b6809a891d5e4841a7de4efe7fb02891d",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which feature is a hallmark of glioblastoma tumor cells? A. Well-differentiated squamous cells B. High mitotic activity and necrosis with pseudopalisading"
+        },
+        {
+          "role": "assistant",
+          "content": "B. High mitotic activity and necrosis with pseudopalisading"
+        }
+      ]
+    },
+    "135959": {
+      "sha256": "c57e5b296c10173dad98e96343b2e8e35a62d003b918f7488f72a2bd737a7e32",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is a significant risk factor for developing keratinizing squamous cell carcinoma of the lung? A. Chronic obstructive pulmonary disease (COPD) B. Human papillomavirus (HPV) infection C. Long-term exposure to asbestos D. Smoking"
+        },
+        {
+          "role": "assistant",
+          "content": "D. Smoking"
+        }
+      ]
+    },
+    "136608": {
+      "sha256": "8c6cd19a77a9c26c73665c1ac136a17586716877247c9a2d04ac513b2cee9c75",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which immunohistochemical marker is commonly used to confirm squamous cell carcinoma in lung biopsies? A. TTF-1 B. CK5/6 C. CD20 D. Vimentin"
+        },
+        {
+          "role": "assistant",
+          "content": "B. CK5/6"
+        }
+      ]
+    },
+    "136688": {
+      "sha256": "740b2fedd361130ac4ffc42971ee8eb37a3c06604450edbd8516ae7fceb0e102",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which sentence best describes the spatial organization of the observed tumor cells? A. Tumor cells are uniformly distributed without evidence of clustering. B. Tumor cells form prominent microvascular proliferations all over the tissue. C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space. D. Tumor cells are organized into distinct lobules with clearly defined borders."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "136908": {
+      "sha256": "0c3dffb27df09ee1032ecf2779551a6b9d59c91f58670597d2f1c21bbd32fe98",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which of the following best describes the tissue architecture typical of moderately differentiated adenocarcinoma in the lung? A. Glandular structures with uniform nuclei and abundant cytoplasm B. Glandular structures with irregular lumens and moderate nuclear pleomorphism C. Sheets of cells with small, hyperchromatic nuclei and scant cytoplasm D. Solid nests with minimal glandular formation and high nuclear pleomorphism"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Glandular structures with irregular lumens and moderate nuclear pleomorphism"
+        }
+      ]
+    },
+    "138257": {
+      "sha256": "0cd0877f11f95ef5c781bcd7752c6403b5983b18a1ac8117adccdcf8f3bf2f93",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which of the following factors negatively impacts the prognosis of lung cancer? A. Lack of lymph node involvement B. Good performance status C. Presence of vascular invasion D. Well-differentiated tumor histology"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Presence of vascular invasion"
+        }
+      ]
+    },
+    "140679": {
+      "sha256": "6b6e468960cedb6962a471d1224b5e51bcb7521e39ee74937d3abc04e6d3e2ea",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which of the following best describes the overall tissue architecture and arrangement of the bladder wall as seen in the pathology report? A. Full thickness infiltration by poorly differentiated urothelial carcinoma with perivesical soft tissue involvement B. Superficial inflammation with no invasion into the bladder wall C. No significant pathological findings D. Isolated areas of dysplasia without invasion"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Full thickness infiltration by poorly differentiated urothelial carcinoma with perivesical soft tissue involvement"
+        }
+      ]
+    },
+    "142301": {
+      "sha256": "5168fa8044cad7d773a64dfcfd34ac0200429ce300200d37f0ec903bc5db17f3",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which treatment option is most appropriate for a patient with invasive squamous carcinoma of the floor of the mouth with adenoid and sarcomatoid features, moderately to poorly differentiated, invading muscle and bone? A. Chemotherapy alone B. Radiation therapy alone C. Surgical resection with adjuvant radiotherapy D. Observation and wait"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Surgical resection with adjuvant radiotherapy"
+        }
+      ]
+    },
+    "142997": {
+      "sha256": "5faf48eae28668a7785e022e4839e14668a86f0ee6753140956423d66f427c00",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which sentence best describes the spatial organization of the observed tumor cells? A. Tumor cells are uniformly distributed without evidence of clustering. B. Tumor cells form prominent microvascular proliferations all over the tissue. C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space. D. Tumor cells are organized into distinct lobules with clearly defined borders."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Tumor cells exhibit focal hypercellular clustering, with some subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "144285": {
+      "sha256": "d84a422392493b6494434ad6ee07690125c6430b80dbc632abf506d3aeb78555",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of cells were noted in the hypercellular glial neoplasm? A. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendrocytes. B. Ependymal cells, microglia, protoplasmic astrocytes, and gemistocytes. C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. D. Microglia, oligodendroglial cells, protoplasmic astrocytes, and fibrous astrocytes."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "144471": {
+      "sha256": "3a07e37e1e42f8675162658cb446b0be66f62a4fa6ed652fc20c21d43ec5b792",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "How would you describe the degree of cellular atypia in the histological sections? A. Atypia is severe throughout the entire section. B. Atypia is mild but focally moderate. C. Atypia is mild with no focal moderate areas. D. There is no atypia observed in the tissue sections."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Atypia is mild but focally moderate"
+        }
+      ]
+    },
+    "145230": {
+      "sha256": "7e4bab2156608a08e05af1858b4c226cec55604789870d7fc4af6ffd0f079f5d",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the 5-year survival rate for Stage I lung adenocarcinoma after surgical resection? A. 20% B. 40% C. 60% D. 80%"
+        },
+        {
+          "role": "assistant",
+          "content": "C. 60%"
+        }
+      ]
+    },
+    "148844": {
+      "sha256": "1486112b0a47cbb7dcc159f0a6f6036e2a752475ddecceadc3fe288d903d2d3c",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which treatment option is most appropriate for a patient with a well-differentiated minimally invasive non-mucinous adenocarcinoma of the lung with no lymph-vascular invasion? A. Chemotherapy B. Radiation therapy C. Surgical resection D. Targeted therapy"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Surgical resection"
+        }
+      ]
+    },
+    "150799": {
+      "sha256": "2855bfde7557c04c4a524a8efad1d5a8d1d09a15bb23f956a60fb540b6369355",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Papillary features in lung adenocarcinoma are identified by which characteristic? A. Glandular structures with central necrosis B. Papillary fronds lined by columnar epithelial cells C. Solid nests of cells with fibrous stroma D. Scattered individual cells in a mucinous background"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Papillary fronds lined by columnar epithelial cells"
+        }
+      ]
+    },
+    "152868": {
+      "sha256": "5c152b474c56795d71fdcbbbf3e20d731e9beee7c6b1f4d47f6f0d0088e055ae",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which biomarker is often used to guide targeted therapy in lung adenocarcinoma? A. PD-L1 B. HER2 C. CA-125 D. ALP"
+        },
+        {
+          "role": "assistant",
+          "content": "A. PD-L1"
+        }
+      ]
+    },
+    "153002": {
+      "sha256": "dbc828c05e6d807ba5eee773d68bafc315becaf88da61e7940b29256a6fc5d9b",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What feature differentiates this tumor type as an Anaplastic Oligoastrocytoma? A. Exclusive presence of gemistocytes and oligodendroglioma cells. B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. C. Necrosis and extensive proliferation of glial cells. D. Predominantly oligodendroglioma cells with extensive necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "154968": {
+      "sha256": "03c36a8e8200c1151cbe1bf0874dd4036164840cd2705025ca5277eaf4a6b39b",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which factor is most indicative of a worse prognosis in patients with anaplastic oligodendroglioma? A. Presence of necrosis B. High Ki-67 labeling index C. Microvascular proliferation D. Mild cellular pleomorphism"
+        },
+        {
+          "role": "assistant",
+          "content": "B: High Ki-67 labeling index"
+        }
+      ]
+    },
+    "155112": {
+      "sha256": "a9f13a44b486e50507e85918eca4c99956e494bc9f3a43b3986ecc9a89f2d460",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the recommended treatment approach for a well-differentiated papillary adenocarcinoma of the lung with hilar lymph node involvement? A. Surgery alone B. Surgery followed by chemotherapy C. Chemotherapy alone D. Radiation therapy alone"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Surgery followed by chemotherapy"
+        }
+      ]
+    },
+    "155250": {
+      "sha256": "c50aa26c83f846cc6e59f69f225a36d9605a795a4e53e436bb410aa0ce1610ec",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What best describes the overall tissue architecture observed in the sections? A. A highly organized and regular tissue structure with clear layer differentiation. B. A disorganized and infiltrative pattern with clusters of hypercellularity. C. A completely necrotic tissue without signs of any cellular structures. D. A structure dominated by fibrous tissue with minimal cellular presence."
+        },
+        {
+          "role": "assistant",
+          "content": "B. A disorganized and infiltrative pattern with clusters of hypercellularity"
+        }
+      ]
+    },
+    "157427": {
+      "sha256": "69dd419f7bc3b97d34190da8774070a0ba786bcd732f8912a8190c997cc8fa71",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What feature differentiates this tumor type as an Anaplastic Oligoastrocytoma? A. Exclusive presence of gemistocytes and oligodendroglioma cells. B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells. C. Necrosis and extensive proliferation of glial cells. D. Predominantly oligodendroglioma cells with extensive necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Combination of protoplasmic astrocytes, gemistocytes, microgemistocytes, and oligodendroglioma cells"
+        }
+      ]
+    },
+    "157968": {
+      "sha256": "3d9766ed91e657f54755ce89e87fc89a91c1c3641ea11251611234317f1b3373",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which pathologic change is not observed in the histological sections? A. Necrosis B. Microvascular proliferation C. Moderate atypia D. Subarachnoid invasion"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Necrosis"
+        }
+      ]
+    },
+    "159231": {
+      "sha256": "6f002d6fa4688f236b1574434833aef50833ddc75f82b835ff5e932d743c6145",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "In considering patient demographics, which factor is most likely to influence the treatment protocol for lung adenocarcinoma? A. Patient's age B. Patient's gender C. Patient's smoking history D. Patient's genetic mutations"
+        },
+        {
+          "role": "assistant",
+          "content": "D. Patient's genetic mutations"
+        }
+      ]
+    },
+    "160544": {
+      "sha256": "750b7b63a7a398d7d20e8f054ebdf150b092840ae819cc8a72ec68978f2dc9d6",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What stage would be assigned to a glioma with non-enhancing, localized lesions without evidence of invasion into surrounding structures? A. Stage I B. Stage II"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Stage I"
+        }
+      ]
+    },
+    "160700": {
+      "sha256": "03c1caf9a2d7798c95b9679c420924520eb87712ded73822b3de604f955be776",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What best describes the overall tissue architecture observed in the sections? A. A highly organized and regular tissue structure with clear layer differentiation. B. A disorganized and infiltrative pattern with clusters of hypercellularity. C. A completely necrotic tissue without signs of any cellular structures. D. A structure dominated by fibrous tissue with minimal cellular presence."
+        },
+        {
+          "role": "assistant",
+          "content": "B. A disorganized and infiltrative pattern with clusters of hypercellularity"
+        }
+      ]
+    },
+    "161627": {
+      "sha256": "4ec7551c73fc1e3a3042b86261b7fe8b9e9de795ea722201bed13fbd3676809b",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which additional treatment might be considered if surgical margins are close but the tumor is not resected completely? A. Adjuvant chemotherapy B. Adjuvant radiation therapy C. Monitor with periodic imaging D. Hormonal therapy"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Adjuvant radiation therapy"
+        }
+      ]
+    },
+    "161968": {
+      "sha256": "70bcbaee89cd4df9fe5f29f5b66d4a4f3063416f75090a7fd142586e235b9ae4",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which biomarker is commonly used to guide targeted therapy in lung adenocarcinoma? A. CA-125 B. PSA C. EGFR mutation D. HER2"
+        },
+        {
+          "role": "assistant",
+          "content": "C. EGFR mutation"
+        }
+      ]
+    },
+    "163593": {
+      "sha256": "e53c84959d5c4c86b2810306e7fab3e07161cd703618f49f3c8285661760b8eb",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "In which cellular detail can one differentiate between malignant and reactive mesothelial cells? A. Cell size uniformity B. Nuclear-to-cytoplasmic ratio C. Presence of mitotic figures D. Nuclear chromatin pattern"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Nuclear-to-cytoplasmic ratio"
+        }
+      ]
+    },
+    "163635": {
+      "sha256": "cd696274a19447e669d55f54408e85e5a110d4e523f5dd8deeb03ed4a32eb7ea",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which genetic alteration is frequently associated with anaplastic oligodendroglioma? A. Loss of heterozygosity on chromosomes 1p and 19q B. BRCA1 mutation C. EGFR amplification D. BRAF V600E mutation"
+        },
+        {
+          "role": "assistant",
+          "content": "A: Loss of heterozygosity on chromosomes 1p and 19q"
+        }
+      ]
+    },
+    "165215": {
+      "sha256": "c3431b11e696efefbcb0cbf044da842139fca78cadcac32a421c1d2255390f0d",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What subtype of carcinoma is present in the left breast according to the provided histological features? A. Medullary carcinoma B. Mucinous carcinoma C. Micropapillary carcinoma D. Tubular carcinoma"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Micropapillary carcinoma"
+        }
+      ]
+    },
+    "165614": {
+      "sha256": "45bf8916a08d3797fbeca333b903a3deeac310098f582d628e1a7794a7651e1e",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "How would you describe the degree of cellular atypia in the histological sections? A. Atypia is severe throughout the entire section. B. Atypia is mild but focally moderate. C. Atypia is mild with no focal moderate areas. D. There is no atypia observed in the tissue sections."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Atypia is mild but focally moderate"
+        }
+      ]
+    },
+    "166029": {
+      "sha256": "570785abeb68e2836cb50423b7363b833faac0ff2d8132cf2ca6db7ee1165cf9",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of fibrosis was noted in the bilateral seminal vesicles? A. Necrotizing fibrosis B. Fibrosis with malignant involvement C. Perivesicle fibrosis without malignant involvement D. Fibrosis with granuloma formation"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Perivesicle fibrosis without malignant involvement"
+        }
+      ]
+    },
+    "166538": {
+      "sha256": "6808ef8322b4e98e2e535bf5bc12a20058762b62dd7643b8f09c8b393b3f2bef",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Considering the patient's tumor's histologic assessment and lymph node involvement, which adjuvant therapy is most suitable post-surgery? A. Concurrent chemoradiotherapy B. Adjuvant chemotherapy C. Targeted therapy D. No additional therapy required"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Adjuvant chemotherapy"
+        }
+      ]
+    },
+    "166997": {
+      "sha256": "c25d3e70831bb926ccae184c89c978a836d615085bb7e8a301d393fc38ff9815",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which characteristic of the tumor indicates its high-grade (grade III) nature? A. Presence of necrosis and severe cellular atypia. B. Frequent mitotic figures and extensive necrosis. C. Microvascular proliferation without necrosis and focal moderate atypia. D. Absence of mitotic figures and mild cellular atypia."
+        },
+        {
+          "role": "assistant",
+          "content": "C. Microvascular proliferation without necrosis and focal moderate atypia"
+        }
+      ]
+    },
+    "167176": {
+      "sha256": "c31712dfcfbf931edec8c501b5825fd086735e9e2458da6573d9e836a46e3109",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which histopathological change is commonly seen in glioblastoma? A. Granulomatous inflammation B. Coagulative necrosis with pseudopalisading"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Coagulative necrosis with pseudopalisading"
+        }
+      ]
+    },
+    "168392": {
+      "sha256": "ffeba21c882254f6257790299feae398f25ddf2740f6de3956640485b6a5ec7c",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of alteration indicates the presence of invasive behavior in the tumor? A. Presence of normal tissue architecture. B. Subpial accumulation and invasion into the subarachnoid space. C. Absence of mitotic figures. D. Presence of widespread necrosis."
+        },
+        {
+          "role": "assistant",
+          "content": "B. Subpial accumulation and invasion into the subarachnoid space"
+        }
+      ]
+    },
+    "169792": {
+      "sha256": "3bddcf6a381c6fd2fa3761b004ded38e31cd423e557a442f0c7c5112eb48ce88",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which feature is consistent with the description of prostatic adenocarcinoma in the pathology report? A. Tumor cells forming well-differentiated glandular structures B. Tumor confined to the epithelium without stromal invasion C. Bilateral, moderate to poorly differentiated adenocarcinoma with extension into extraprostatic skeletal muscle D. Significant fibrosis without evidence of cancerous cells"
+        },
+        {
+          "role": "assistant",
+          "content": "C. Bilateral, moderate to poorly differentiated adenocarcinoma with extension into extraprostatic skeletal muscle"
+        }
+      ]
+    },
+    "170979": {
+      "sha256": "f3c0e046c11ebec0301b913d0eb8dc662a6362a4a86612a6643004710c99ac46",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What best describes the overall tissue architecture observed in the sections? A. A highly organized and regular tissue structure with clear layer differentiation. B. A disorganized and infiltrative pattern with clusters of hypercellularity. C. A completely necrotic tissue without signs of any cellular structures. D. A structure dominated by fibrous tissue with minimal cellular presence."
+        },
+        {
+          "role": "assistant",
+          "content": "B. A disorganized and infiltrative pattern with clusters of hypercellularity"
+        }
+      ]
+    },
+    "171206": {
+      "sha256": "df1d53c801b183b578c2e3071e7aa07c87e274a9c4a229228f2d9b22dc8c2c3a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "When evaluating a glial tumor, which feature would help differentiate an anaplastic astrocytoma from a glioblastoma? A. Eosinophilic cytoplasm B. Presence of necrosis"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Presence of necrosis"
+        }
+      ]
+    },
+    "172587": {
+      "sha256": "b71b829e4ff199c8b5633aa6cb6d68795c67ac618c31b3ea6c2ba6c11fd9818b",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which pathologic change is not observed in the histological sections? A. Necrosis B. Microvascular proliferation C. Moderate atypia D. Subarachnoid invasion"
+        },
+        {
+          "role": "assistant",
+          "content": "A. Necrosis"
+        }
+      ]
+    },
+    "172603": {
+      "sha256": "b941a993118774fd0ae1c36477758ce01addb19879d68e72f7406c2a17a3030f",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which genetic mutation is most commonly associated with lung adenocarcinoma? A. KRAS B. BRCA1 C. TP53 D. EGFR"
+        },
+        {
+          "role": "assistant",
+          "content": "D. EGFR"
+        }
+      ]
+    },
+    "174925": {
+      "sha256": "b9606d6a5115a8b6d21a85a16a257cc871eca66e87eddcaad7cbd1b3ac76451b",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Which of the following accurately represents the characteristics of the tumor found in the bladder? A. Well-differentiated squamous cell carcinoma B. Invasive urothelial carcinoma, poorly differentiated, with lymphovascular invasion and extension into perivesical soft tissue C. Benign hyperplasia with no signs of malignancy D. Isolated carcinoma in situ without invasion"
+        },
+        {
+          "role": "assistant",
+          "content": "B. Invasive urothelial carcinoma, poorly differentiated, with lymphovascular invasion and extension into perivesical soft tissue"
+        }
+      ]
+    }
+  },
+  "Diagnosis_choice_train.json": {
+    "317": {
+      "sha256": "28baa69ca97195f25c3f9506788a1aa61b1d0c531b79f841cb1b4a3d3eace3dc",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "How would you grade this squamous cell carcinoma based on differentiation? A) Well differentiated B) Moderately differentiated C) Poorly differentiated D) Undifferentiated"
+        },
+        {
+          "role": "assistant",
+          "content": "C "
+        }
+      ]
+    },
+    "3800": {
+      "sha256": "1c89a1c3dd59cad250615c75abdca67f140b892e7ff1b3648d2b035135b2860e",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the Fuhrman nuclear grade of this tumor? A) Grade I B) Grade II C) Grade III/IV D) Grade V"
+        },
+        {
+          "role": "assistant",
+          "content": "C "
+        }
+      ]
+    },
+    "10661": {
+      "sha256": "611e95986acd387d96896e6b5832e0bcf3d217ca0858a234ae6dca2733328316",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the Gleason score of this tumor? A) 6/10 B) 7/10 C) 8/10 D) 9/10"
+        },
+        {
+          "role": "assistant",
+          "content": "C "
+        }
+      ]
+    },
+    "13042": {
+      "sha256": "40d765fd7552c555ea60daefee37347088d215927b0d07a55fd8bf533eaaab24",
+      "conversations": null
+    },
+    "14524": {
+      "sha256": "9d4415ae75d8aebc48a562155edbd782a38dceee9515c0b43e745c3b91eb592a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the FNCLCC grade of this leiomyosarcoma? A) Grade 1 B) Grade 2 C) Grade 3 D) Not applicable"
+        },
+        {
+          "role": "assistant",
+          "content": "B "
+        }
+      ]
+    },
+    "17342": {
+      "sha256": "16c8490f41c150a19c0d0f2bba257a719ab1613e13e0f797bbd8742b99aa55a9",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the grading of this tumor based on its nuclear features and mitotic index? A) Low-grade B) Intermediate-grade C) High-grade D) Not applicable"
+        },
+        {
+          "role": "assistant",
+          "content": "C "
+        }
+      ]
+    },
+    "17344": {
+      "sha256": "c0717da974a37ccf540d5968a1467ffee770ba37f13a1c8393a0c567fd86b796",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the grading of this tumor based on its nuclear features and mitotic index? A) Low-grade B) Intermediate-grade C) High-grade D) Not applicable"
+        },
+        {
+          "role": "assistant",
+          "content": "C "
+        }
+      ]
+    },
+    "17346": {
+      "sha256": "ed708c80acd6546a84b3c12eec83014c0bd2ebe017586a3d41b2fdc5ce007690",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the grading of this tumor based on its nuclear features and mitotic index? A) Low-grade B) Intermediate-grade C) High-grade D) Not applicable"
+        },
+        {
+          "role": "assistant",
+          "content": "C "
+        }
+      ]
+    },
+    "18882": {
+      "sha256": "5a4165f490bc7d467656f95ac217c0e9efd50bc25b0d7b5c79903967404cf125",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What is the grading of this tumor according to its differentiation? A) Well differentiated B) Moderately differentiated C) Poorly differentiated D) Undifferentiated"
+        },
+        {
+          "role": "assistant",
+          "content": "D "
+        }
+      ]
+    }
+  },
+  "Morphology_choice_train.json": {
+    "5829": {
+      "sha256": "3ca5076803b362c17c7df44bcd4bf0b0e9d6564bbd741d5984b86eed5e5d02ac",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What type of vascular involvement is noted in this specimen? A) No evidence of vascular invasion within the specimen. B) Tumor cells show infiltration within the lymphatic system, but no blood vessel invasion. C) Vascular invasion is noted, with tumor cells present within a vessel in the renal sinus. D) Tumor cells are confined to the primary tumor site, without vascular involvement."
+        },
+        {
+          "role": "assistant",
+          "content": "C "
+        }
+      ]
+    }
+  },
+  "Regional_Structure_Description_train.json": {
+    "771": {
+      "sha256": "ef6347b00ef07dc60d0b8fc1caddb401dc33cc78f4138b4eb3a0e031d24bd382",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cells show marked nuclear pleomorphism with an increased nuclear-to-cytoplasmic ratio. The nuclei display abnormal features, contributing to the atypical appearance of the squamous epithelial cells. The degree of differentiation varies from moderate to poor across the sample, consistent with deviation from normal cellular morphology."
+        }
+      ]
+    },
+    "1407": {
+      "sha256": "4aaa4504605a5570b7387ef32dee89ebea33d1726e01efce8a8f9b21a50cd433",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The epithelial cells exhibit moderate variability in size and shape, typical of their glandular type. The nuclei are rounded and show slight enlargement with a moderate chromatin pattern. Mitotic figures are observed but not in high frequency, indicating some proliferative activity."
+        }
+      ]
+    },
+    "1701": {
+      "sha256": "b7bdae8cf71950f8325013c88fd3d3f918f30c79aca508341bee51c5772291dc",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals neoplastic glandular cells that maintain an organized arrangement consistent with well-differentiated adenocarcinoma. The cells mimic normal epithelial counterparts in structure, lacking evidence of necrosis or calcification. There is no significant nuclear atypia or pleomorphism, indicating a harmonious cellular presentation throughout the examined tissue."
+        }
+      ]
+    },
+    "1770": {
+      "sha256": "af56642e30e07b53782b94a2bea78b1e5a1974d6a74b7083e1fa520be7d9b36e",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology shows moderately differentiated cells forming tubular structures. The cells demonstrate mild to moderate variability in nuclear size and shape. The chromatin is slightly coarse, and nucleoli are prominent in some sections. Mitotic figures are present, but their number is not excessively high."
+        }
+      ]
+    },
+    "1970": {
+      "sha256": "9a9ad9757bff7aaa830ea9e466e757dbab456e5a7c900d2b96673fbfec8bb95f",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals moderate nuclear pleomorphism, with variability in nuclear size and shape. The nuclei exhibit prominent nucleoli, and there is an increased number of mitotic figures throughout the tissue, indicating heightened proliferative activity. These features reflect the malignant nature of the tumor."
+        }
+      ]
+    },
+    "4135": {
+      "sha256": "c598bd03edbda51d44fa6e983fc08954eb0f533225282e2872cc7ace1145ca57",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology presents as high-grade with basophilic cytoplasm within neoplastic cells. The cells are organized in tubular structures and exhibit a solid and papillary arrangement within the tumor mass. There is significant necrosis present, which is indicative of the aggressive nature of the tumor cells."
+        }
+      ]
+    },
+    "4754": {
+      "sha256": "3e51df68c18e2e352a6827bd05620dbbfccda6c19909d1c948ce3c8ce5b0815b",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cells exhibit clear cytoplasm and defined borders, with nuclei showing moderate pleomorphism consistent with an intermediate level of atypia. The nuclei have a size variation up to Fuhrman grade II, and there is an absence of significant necrosis or calcification."
+        }
+      ]
+    },
+    "5454": {
+      "sha256": "95b14b18c6c6389a322c900d5a2ec71435278b60b4c4636d3f5aaa068d645c7d",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit clear cytoplasm with distinct cell membranes. The nuclei show moderate pleomorphism and marked hyperchromasia, aligning with a Fuhrman nuclear grade 3. Despite the noticeable nuclear changes, there's an absence of necrosis or calcification in the observed sections."
+        }
+      ]
+    },
+    "5739": {
+      "sha256": "a8eca22baea67419c2b21b630d08abe5951b50cef9d3774eb647218759eb6a9a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology highlights epithelial cells with clear features, showing abundant clear cytoplasm due to lipid and glycogen content. There's moderate nuclear atypia with Fuhrman grade 2 nuclear characteristics, indicating a moderate degree of nuclear variation in size and shape. The nuclei are noticeable but do not show extreme irregularities, with no sarcomatoid features present."
+        }
+      ]
+    },
+    "5979": {
+      "sha256": "f6a82dbc32e0ede6c74b68e6bb7cd96f02ae8eeaa3ac319ceb1d822a5f56b821",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology is characterized by significant nuclear pleomorphism, with noticeable variation in nuclear size and shape. There is also evidence of necrotic tissue within the tumor, indicating areas of cell death. The presence of granulomatous inflammation and rare fungal organisms adds complexity to the cellular landscape."
+        }
+      ]
+    },
+    "6186": {
+      "sha256": "121e14635889c25db4525c358ea95fd2b745473fd3bb1e2592b1c05bc6c422d5",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals well-differentiated epithelial cells forming complex structures. The cells show minimal nuclear pleomorphism, with nuclei that are relatively uniform in shape and size. Both mucinous and non-mucinous cells are observed, contributing to the diverse cellular composition of the growth pattern."
+        }
+      ]
+    },
+    "6384": {
+      "sha256": "27cfef9156dc7dc4156cfd59fa18bcf6c06e86ca76d71ddacda31524adf28796",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals significant pleomorphism, with marked variability in cell size and shape. The nuclear features include irregular, enlarged nuclei with coarse chromatin and prominent nucleoli. There is also increased mitotic activity with atypical mitotic figures noted, corresponding to the tumor's aggressive nature."
+        }
+      ]
+    },
+    "6528": {
+      "sha256": "146d80da8ee3861c5aedee25138f8634070927e4d604b30244be2b4bd4987360",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals significant pleomorphism, with nuclei showing considerable variation in size and shape. These characteristics are typical of high-grade malignancy, with evident disparity in nuclear dimensions. No calcification or necrosis is observed within the tumor cells."
+        }
+      ]
+    },
+    "6627": {
+      "sha256": "6f3a155586ab00f30f3b1517ac469f535d4d858c1309aa6225c2f54c9cd53790",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit notable variability in size and shape, showing nuclear pleomorphism. The nuclei appear hyperchromatic and are arranged in glands that are infiltrated by mucin. Mitotic figures are present but not prominently highlighted in this observation. The cellular morphology supports the identification of adenocarcinoma with mucinous features."
+        }
+      ]
+    },
+    "6630": {
+      "sha256": "75b6baa8e5fc97e33ccaac68603222d068b671d5da68af4a25d9109baf96f1ea",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit notable variability in size and shape, showing nuclear pleomorphism. The nuclei appear hyperchromatic and are arranged in glands that are infiltrated by mucin. Mitotic figures are present but not prominently highlighted in this observation. The cellular morphology supports the identification of adenocarcinoma with mucinous features."
+        }
+      ]
+    },
+    "6633": {
+      "sha256": "0970931e55901dbfbaa3acf2e755b2bf1142452bdeb67c40864fdbb8099af533",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit notable variability in size and shape, showing nuclear pleomorphism. The nuclei appear hyperchromatic and are arranged in glands that are infiltrated by mucin. Mitotic figures are present but not prominently highlighted in this observation. The cellular morphology supports the identification of adenocarcinoma with mucinous features."
+        }
+      ]
+    },
+    "6636": {
+      "sha256": "1c80bb90f8860ca7d6fba6b810dd4b82081cf2f04c08b807d74913e32f7e503d",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit notable variability in size and shape, showing nuclear pleomorphism. The nuclei appear hyperchromatic and are arranged in glands that are infiltrated by mucin. Mitotic figures are present but not prominently highlighted in this observation. The cellular morphology supports the identification of adenocarcinoma with mucinous features."
+        }
+      ]
+    },
+    "6639": {
+      "sha256": "8c455739f6a830f7afce173f1a5079ee85b6dae31e441106041bbf4d824242c3",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit notable variability in size and shape, showing nuclear pleomorphism. The nuclei appear hyperchromatic and are arranged in glands that are infiltrated by mucin. Mitotic figures are present but not prominently highlighted in this observation. The cellular morphology supports the identification of adenocarcinoma with mucinous features."
+        }
+      ]
+    },
+    "6964": {
+      "sha256": "fbb3e3315fabe3f6fe1aaf357f1091cb81cab16243e306cf72d00ac2396e4757",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The carcinoma cells show a high degree of nuclear pleomorphism, with significant variability in nuclear size and shape. The nuclei are frequently enlarged and irregular, with coarse chromatin texture. There is also abundant necrosis, and mitotic figures are readily identifiable, indicating a high rate of proliferation."
+        }
+      ]
+    },
+    "7327": {
+      "sha256": "e3e0e09e2c93a17c9669e1785fea5cf5425ac594a437764cf884fe4924595705",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals undifferentiated cells with marked nuclear atypia. There is significant variability in nuclear size and shape, and the cells exhibit a high rate of mitotic figures, indicative of rapid and aggressive cellular proliferation."
+        }
+      ]
+    },
+    "7607": {
+      "sha256": "62776acdd544bbf4cf1da4f018aaa3d04e8f66cddeeebcbcb7e25cf7d832c761",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cells show marked pleomorphism and nuclear atypia, with enlarged, hyperchromatic nuclei and irregular shapes. Mitotic figures are frequent, evidencing high proliferative activity. There are also occasional psammoma bodies noted, adding to the typical cellular morphology features of papillary serous tumors."
+        }
+      ]
+    },
+    "7610": {
+      "sha256": "c0cfe436c450a186c99be1e7ea9a754583f05d349257be4fe7e9e46fe931da28",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cells show marked pleomorphism and nuclear atypia, with enlarged, hyperchromatic nuclei and irregular shapes. Mitotic figures are frequent, evidencing high proliferative activity. There are also occasional psammoma bodies noted, adding to the typical cellular morphology features of papillary serous tumors."
+        }
+      ]
+    },
+    "7634": {
+      "sha256": "e2aec5cf275e6ef0c194c12a73460110fa666f41db6c0da82029c44ec67f0b01",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals minimal nuclear atypia, with small and uniform nuclei. There are rare mitotic figures, indicating low proliferative activity. Overall, the cells maintain a uniform appearance with subtle features distinguishing them from normal endometrial cells."
+        }
+      ]
+    },
+    "7819": {
+      "sha256": "b7f33132dd477ca6ff0697830811cfde5063d9b2ad4ae1dbf44c16a12b816a04",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cells display pronounced nuclear atypia and pleomorphism. The nuclei are markedly irregular, showing a range of shapes and sizes, and are hyperchromatic with coarse chromatin. The mitotic activity is high, with several mitotic figures evident throughout the papillary formations, contributing to the high proliferative index. Although necrosis is present, calcifications are not observed."
+        }
+      ]
+    },
+    "8077": {
+      "sha256": "c55366a48674f146dcd32cb069bc73e57ba3cd84b0abb9e7eb43c06ab38ac2e5",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals marked nuclear pleomorphism, with nuclei displaying significant variability in size and shape. The cells appear highly atypical, consistent with the aggressive nature often seen in high-grade malignancies."
+        }
+      ]
+    },
+    "8205": {
+      "sha256": "62cbc490f095fb5528a3ac432688e009a213a7854287484e48210a8384014eb0",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells are arranged into complex glandular structures with noticeable nuclear atypia. There are variations in nuclear size and shape, indicative of nuclear pleomorphism. Despite these changes, mitotic figures are not prominently highlighted within the report, and the lymph node sections display benign reactive lymphoid features without metastatic involvement."
+        }
+      ]
+    },
+    "8338": {
+      "sha256": "8b241f830f2a9a87f94db9ac5ffe3df8b5c3202d8f9f27ed4a1b2ba999bebc71",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology exhibits minimal nuclear atypia, with cells retaining a uniform appearance. There is no significant pleomorphism, and mitotic activity is notably low, reflecting the well-differentiated nature of the tumor."
+        }
+      ]
+    },
+    "8586": {
+      "sha256": "90f85bd1a821ba47402706e78cd9726e70c600fe60aab5902f08a1e7822a9721",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The neoplastic cells demonstrate moderate variability in nuclear size and shape, which indicates nuclear pleomorphism. The nuclei do not show extreme atypia but do vary in size and shape. Throughout the tissue, no abnormal mitotic figures are noted, and cellular arrangement shows a loss of cohesive architectural patterns typical for more ordered glandular tissue."
+        }
+      ]
+    },
+    "8715": {
+      "sha256": "b53fb15af7d62cc7a396b0380bcb14b80427d8f9227c3d6a0e8aa58193a72947",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology displays significant variability, with the tumor cells showing marked pleomorphism. The nuclei are greatly heterogeneous in size and shape, illustrating severe pleomorphism. Mitotic activity is notably high, with numerous mitotic figures present, including atypical mitoses, reflecting the increased proliferation and tendency for abnormal cell divisions within this tumor."
+        }
+      ]
+    },
+    "8789": {
+      "sha256": "14bc57815626a11b484eadd4851d48810bd34a0c8c52b6e82df6c9dbe90ebba4",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology is characterized by epithelial cells with moderate variability in nuclear size and shape, suggesting the presence of nuclear pleomorphism. There is a moderate rate of cell division, which is evident by the presence of mitotic figures throughout the tissue sections. These features are consistent with active proliferative behavior."
+        }
+      ]
+    },
+    "9082": {
+      "sha256": "03b57d4cd18e29afed04196e3e54271a59025c59d376aaa6652b6c7dac6b5cbc",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit moderate variability in nuclear size and shape, indicative of nuclear pleomorphism. The nuclei have an intermediate level of atypia but remain consistent with the atypical appearances noted in invasive carcinoma. There is a moderate rate of cell division, as observed by the presence of increased mitotic figures throughout the tissue, reflecting active cellular proliferation."
+        }
+      ]
+    },
+    "9100": {
+      "sha256": "f007ecfd01433d1c4e951efd0986f7be5ae6eac7ad1394abe58ddf03835c1ed0",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cells exhibit marked variability in nuclear size and shape, demonstrating pronounced pleomorphism. There is a high rate of mitotic activity, with numerous mitotic figures observable throughout the slide, indicating frequent cell division."
+        }
+      ]
+    },
+    "9205": {
+      "sha256": "94518432981c30c8f8827d88b6703d004a0f80ab893a402adb164f1764195527",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology is characterized by epithelial cells displaying moderate variability in both nuclear size and shape, which indicates nuclear pleomorphism. The nuclei appear variably structured, with slight irregularities and scattered chromatin. There is a moderate rate of mitotic activity observed, reflecting the active proliferation of these tumor cells. Overall, nuclear features demonstrate notable but not extreme atypia."
+        }
+      ]
+    },
+    "9217": {
+      "sha256": "e3f293fc57e99af301b469c9c0325c521153b77af938b7d1a226eaa2c54dec6e",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cells display moderate variability in nuclear size and shape, suggesting nuclear pleomorphism. There is also a moderate rate of cell division observed, as evidenced by the presence of mitotic figures within the tissue. The in situ regions are characterized by epithelial cells with nuclear features typical of intermediate-grade nuclei, supporting the morphological observations."
+        }
+      ]
+    },
+    "9234": {
+      "sha256": "f3e02d0db32e1347d1b9076845fe57d641aa7503779b0a3b1f6c0135c2146e2e",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit moderate variability in nuclear size and shape, consistent with a nuclear grade of 2. This variability indicates nuclear pleomorphism, where the nuclei are neither highly atypical nor uniform. There is also a moderate rate of mitotic activity noted, suggesting an increased cell division rate within the tumor environment."
+        }
+      ]
+    },
+    "9243": {
+      "sha256": "e96f183514d85d297e6521527c389f9778f5cc4fdc993aa2acad891fbf124dbc",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The epithelial cells exhibit minimal variability in nuclear size and shape, indicating low nuclear pleomorphism. The nuclei are uniform, contributing to low-grade features. The mitotic activity is low, and no areas of necrosis or calcification are observed in this slide."
+        }
+      ]
+    },
+    "9273": {
+      "sha256": "b5bf3905b0329127ef4bf59f8fea9a2493c4a807358bdc8a70855b26ee11c3e1",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology displays marked variation in nuclear size and shape, indicative of nuclear pleomorphism consistent with a nuclear grade II/III. The nuclei exhibit varying degrees of enlargement and irregularities, along with prominent nucleolation. There are scattered atypical mitotic figures throughout the slide, reflecting increased proliferative activity."
+        }
+      ]
+    },
+    "9363": {
+      "sha256": "05e48015b5f4cb1c207b71a3e3c56c812f203f0d9526d907002c6f2ef948bda1",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology of the tumor shows nuclei with moderate variability in both size and shape. This indicates nuclear pleomorphism consistent with a degree of differentiation that is neither highly variant nor uniform. The chromatin may appear slightly unevenly distributed, and mitotic figures may be present, reflecting active cell division."
+        }
+      ]
+    },
+    "9585": {
+      "sha256": "7be916285586f2658ce8122e96885235e2a9115bd797d7a5d061490fde211306",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells display a slight increase in nuclear size and variability, in line with Modified Black's nuclear grades 1 and 2. This suggests some level of nuclear atypia, though not pronounced. While the rate of mitosis isn't detailed, the observed features suggest some moderate variability in nuclear morphology and arrangement."
+        }
+      ]
+    },
+    "9666": {
+      "sha256": "6485149be3e82916ff8da8e85e4d6267cc65c15b4387a610a9f4a84180f389ae",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit moderate nuclear pleomorphism, with variability in nuclear size and shape. The rate of mitotic figures is moderate, indicating a steady level of cell division. Necrotic regions within the tissue contribute to areas of cellular degradation and loss of viability."
+        }
+      ]
+    },
+    "9693": {
+      "sha256": "71315d9f7647fc51d9a734ec9a87657f3ec922e21df40fb8c5134539162c4ea0",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology shows minimal variability in nuclear size and shape, indicative of well-differentiated tumor cells. The nuclei display low atypia, and there is an absence of significant mitotic activity, consistent with the well-differentiated nature of the epithelial cells in this carcinoma."
+        }
+      ]
+    },
+    "9723": {
+      "sha256": "7effde3e2b882ad8651b21868653ad657dfd5f53b5df2d5ea198804f06eed872",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology shows considerable variability in nuclear size and shape, suggestive of high-grade pleomorphism. The tumor cells exhibit irregular and enlarged nuclei, along with variable chromatin texture. There is an increased presence of mitotic figures, reflecting heightened cell division activity consistent with aggressive behavior."
+        }
+      ]
+    },
+    "9761": {
+      "sha256": "a7edf8b3ff9e7b15ddd383a7c0b731e7c8d6e98ffdc923dfe23e21d1bb1321db",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology shows well-differentiated structures, where the tumor cells maintain a uniform size and shape, consistent with a lower degree of pleomorphism. The nuclei of these cells are evenly distributed and moderately sized with minimal atypia. Microcalcifications are observed both within the benign fibrocystic changes and within the malignant carcinoma tissue, providing a distinctive mineralizing feature within the cellular context."
+        }
+      ]
+    },
+    "9794": {
+      "sha256": "03a7482c46f202185b9c2126fe468c3a9737210aac2fcfd78493e666bfa91aec",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells display moderate variability in nuclear size and shape, indicating nuclear pleomorphism. The nuclei exhibit a range of sizes and shapes but maintain some degree of uniformity. There is a moderate rate of mitotic activity, suggesting that cell division is occurring at an increased frequency compared to normal tissue. These features are consistent with the described diagnosis."
+        }
+      ]
+    },
+    "9803": {
+      "sha256": "fee96d83a3f4ca9bed5ad08203587bc84f8735c5b9ed5425428047ae666cf85a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology exhibits moderate variability in nuclear size and shape, resulting in a level of nuclear pleomorphism scored at 2. Many nuclei have a variable, yet moderate, degree of irregularity. Mitotic activity is moderate, with an observable mitotic rate that aligns with a mitotic count score of 2."
+        }
+      ]
+    },
+    "9868": {
+      "sha256": "a1e1275824ee0511bc2a32afd6740cd92e5fd447ee61490df6603117cca5f33c",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals marked nuclear pleomorphism, with significant variability in nuclear size and shape, highlighting a high degree of atypia. This is evidenced by a nuclear pleomorphism score of 3. There is also a conspicuously high rate of cell division observed, as reflected in the mitotic score of 3, with numerous mitotic figures scattered throughout the tissue. The DCIS areas demonstrate enlarged nuclei of varying sizes and shapes, contributing to the overall nuclear variability within the specimen."
+        }
+      ]
+    },
+    "9871": {
+      "sha256": "e313bf5202f1cbd359f70e450e3382efd7a4cd1f55c538ca37eeab8e33a150e4",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals marked nuclear pleomorphism, with significant variability in nuclear size and shape, highlighting a high degree of atypia. This is evidenced by a nuclear pleomorphism score of 3. There is also a conspicuously high rate of cell division observed, as reflected in the mitotic score of 3, with numerous mitotic figures scattered throughout the tissue. The DCIS areas demonstrate enlarged nuclei of varying sizes and shapes, contributing to the overall nuclear variability within the specimen."
+        }
+      ]
+    },
+    "9959": {
+      "sha256": "1f217f2dac90a32f9fb5715d73c7414ab17689e6c7e0c6803a715474bb7841bc",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology is characterized by notably large and irregular nuclei, with a high degree of variability in both size and shape. This reflects significant nuclear pleomorphism. There is a high rate of mitotic figures throughout the tissue, indicating active cellular proliferation. These features correspond to a high nuclear grade and contribute to the overall atypical cellular appearance."
+        }
+      ]
+    },
+    "9980": {
+      "sha256": "d6a017029ffe63a1e8f553750eae6eb4475051f3ca796228bf7c1467036406b0",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals moderate variability in nuclear size and shape, indicative of nuclear pleomorphism corresponding to a nuclear grade of 2. The mitotic activity is moderate, with three mitotic figures observed per 10 high power fields, reflecting a mitotic count score of 1."
+        }
+      ]
+    },
+    "10051": {
+      "sha256": "6d57a09865f26a5572d4491354caaa42b703dcb79a0f3817709d6d82a7d56e53",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit moderate pleomorphism in nuclear size and shape. There is a considerable rate of cell division, as indicated by the moderate presence of mitotic figures. Additionally, the nuclei are sometimes surrounded by microcalcifications, contributing to the unique histological features observed in this carcinoma."
+        }
+      ]
+    },
+    "10063": {
+      "sha256": "86288d4ad189eac952d9da11ce283aa9c1f5783d79a73b2b3899bce9acbdac77",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The atypical epithelial cells exhibit variability in both nuclear size and shape, highlighting nuclear pleomorphism. The nuclei are moderately enlarged, with dispersed chromatin and occasional prominent nucleoli. Although there is nuclear atypia, mitotic figures are infrequently observed throughout the tissue."
+        }
+      ]
+    },
+    "10113": {
+      "sha256": "a610343a730b8cff578691da329d5f828160ff3ba67def5353a133e4dab30564",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The epithelial cells exhibit moderate nuclear pleomorphism with a slight variability in size and shape. This indicates a fairly uniform cellular population, but with some noticeable differences in nuclear contour and chromatin distribution. The mitotic rate is moderate, as evidenced by a moderate number of mitotic figures observed, reflecting active cellular proliferation without any signs of necrosis."
+        }
+      ]
+    },
+    "10149": {
+      "sha256": "fb08206fcbbb53905784ced4917a77457ef6abd0525122aa77982cdea37f04ed",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The epithelial cells show moderate nuclear pleomorphism, characterized by variability in nuclear size and shape. The nuclear grade is indicated as II/III, reflecting this moderate atypia. Despite these features, the mitotic index is low, as evidenced by a minimal presence of mitotic figures, correlating with a low rate of cell division."
+        }
+      ]
+    },
+    "10163": {
+      "sha256": "9346e8ef055c7b00eca090d5adab00d8306965737adff258ee0c443b34e3854b",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The epithelial cells exhibit moderate variability in both the size and shape of their nuclei, indicating nuclear pleomorphism. The nuclei exhibit moderate atypia, with a varied chromatin texture, but no signs of overtly aggressive nuclear features such as extreme pleomorphism or prominent nucleoli."
+        }
+      ]
+    },
+    "10172": {
+      "sha256": "b9bdd27c0802ee9a2a9c8f96d4b095813f2abdfef4e14697b90106da76477251",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit marked nuclear pleomorphism, with significant variability in both nuclear size and shape. This results in nuclei that are irregular and enlarged compared to typical ductal cells. A high mitotic index is observed, indicating increased cell division. These active mitotic figures are seen throughout the tissue, contributing to rapid tumor growth."
+        }
+      ]
+    },
+    "10175": {
+      "sha256": "474c6075bb819b3490f46e5c3a700e9dd88582d85dc8a2029debdd6cfe3e1fb1",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit marked nuclear pleomorphism, with significant variability in both nuclear size and shape. This results in nuclei that are irregular and enlarged compared to typical ductal cells. A high mitotic index is observed, indicating increased cell division. These active mitotic figures are seen throughout the tissue, contributing to rapid tumor growth."
+        }
+      ]
+    },
+    "10202": {
+      "sha256": "f621b5e68963f7f747be7dfd2df3bca45787bde9ada1ae627e945afdb7025003",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology shows a marked degree of nuclear pleomorphism, where the nuclei exhibit significant variability in size and shape. This pronounced pleomorphism is further emphasized by the high mitotic activity, suggesting a rapid rate of cell division. These findings reflect the aggressive cellular characteristics on this slide."
+        }
+      ]
+    },
+    "10301": {
+      "sha256": "d264d216903924c94ed876a0e6777a0f8cb257c80b8c1af8fa912b889480eac4",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells display moderate nuclear pleomorphism, evidenced by variability in nuclear size and shape. There is a moderately high rate of cell division, indicated by an increased number of mitotic figures present throughout the observed tissue sections."
+        }
+      ]
+    },
+    "10310": {
+      "sha256": "5ade38d341516d0d7cb86b08f2018f98afe7d493f0371ccfa4dfc2a7511efce4",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells display low nuclear pleomorphism, characterized by uniform nuclear size and shape, consistent with nuclear grade 1. There is minimal mitotic activity visible, correlating to a low Nottingham score of 1 for mitotic activity. This suggests a lower proliferation rate of the tumor cells."
+        }
+      ]
+    },
+    "10349": {
+      "sha256": "670b4f837c2d54fb7b5fb9fce62ad3d20385a53c9ae12c6b28c15fd95beed167",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The nuclei of the epithelial cells show mild to moderate variability in size and shape, which suggests some degree of nuclear pleomorphism. Occasional mitotic figures are observed, indicating sporadic mitotic activity within the tissue."
+        }
+      ]
+    },
+    "10376": {
+      "sha256": "15dee5cc6bda2e1c93cf25e531ea10920e6f718d51b5febb2ef3a72c6cae3627",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit moderate variability in nuclear size and shape, characterized by high nuclear grade. This includes a coarse chromatin texture and occasional prominent nucleoli. The cells demonstrate a moderate rate of mitotic activity, reflecting increased cell division within the neoplastic areas. Necrosis is observed, particularly within the neoplastic regions, contributing to the cellular atypicality."
+        }
+      ]
+    },
+    "10391": {
+      "sha256": "88c8b33e75f81a9e195f418676459c3b01706f7376e1296de1bc0d7f173a4898",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The epithelial cells exhibit moderate nuclear pleomorphism, with variability in nuclear size and shape but within a limited range. The chromatin appears somewhat dispersed, consistent with moderate pleomorphism. Mitotic figures are scarce, correlating with a low mitotic activity score, highlighting a reduced rate of cellular proliferation."
+        }
+      ]
+    },
+    "10495": {
+      "sha256": "bd60fc5b2160392a9442cbf1e1ab31e84479e744c271160f3e9bdedbc36ee38a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology is characterized by highly pleomorphic cells with a high nuclear grade assigned as grade 3. The cells exhibit considerable variation in nuclear size and shape, reflecting significant atypia. Additionally, there is a high mitotic index, indicating increased mitotic activity across the observed fields. The osteosarcomatous differentiation is reflected in the production of malignant osteoid material by the neoplastic cells."
+        }
+      ]
+    },
+    "10512": {
+      "sha256": "0d92729d092b48462517eb6f504518bf1e694ff097a63968433929d229fb6798",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals moderate variability in nuclear size and shape, suggesting nuclear pleomorphism. The nuclei display noticeable variability but remain within a moderate range. There is a moderate frequency of cell division, observed as 5 mitotic figures per 10 high power fields, indicating the proliferative activity of the tumor cells."
+        }
+      ]
+    },
+    "10618": {
+      "sha256": "a1abba8a2ec53d64149cd8daf4fcb5e931df013e602e555ac9560bdd25d14e11",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cells demonstrate moderate variability in nuclear size and shape, indicating nuclear pleomorphism within a nuclear grade ranging from II to III. There is a minimal mitotic rate observed, which aligns more closely with a grade I characteristic. No necrosis is present in the cellular morphology, maintaining a relatively low mitotic index."
+        }
+      ]
+    },
+    "10813": {
+      "sha256": "babbc213867a48ed5aa0806152573be08fe84b9fe11fbc03822b1b95c11da68a",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology on this slide displays marked pleomorphism, characterized by considerable variability in the size and shape of nuclei. Although the specific nuclear features are not quantified in relation to the Nottingham system grading, the nuclei are decidedly atypical with prominent variation. Focal necrosis is present, further indicating the cytopathic effect of the invasive carcinoma cells. While mitotic figures are not numerically noted, the morphological features underscore significant cellular disarray and activity."
+        }
+      ]
+    },
+    "10904": {
+      "sha256": "6a45ace4eb4829d5ac061fef884b291f92fb8a25481ca2bd770f62d53691a067",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The epithelial cells display moderate variability in nuclear size and shape, which indicates nuclear pleomorphism. The nuclei exhibit notable variability yet are relatively consistent with the level of differentiation observed. Additionally, there is a moderate mitotic activity, with an increased number of cell divisions visible, aligning with other architectural and cellular characteristics noted in the tissue."
+        }
+      ]
+    },
+    "11176": {
+      "sha256": "e009e2067b532888b276f80b80a30d28ae17d94a84a0ec3d4b0e3e8008b65604",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "Within the slide, significant nuclear pleomorphism is observed, evidenced by considerable variability in both size and shape of the nuclei. This points to a significant degree of nuclear atypia. Additionally, there is an increased rate of cell division, as indicated by a high mitotic count. These features are prominent and contribute to the observed pleomorphic characteristics of the tumor cells."
+        }
+      ]
+    },
+    "11214": {
+      "sha256": "4c68513efd83640bdfe6c636f6dd287faa613aabc096fac620a6d5c47de30e51",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit marked nuclear pleomorphism, with considerable variability in both size and shape of the nuclei. This is accompanied by a high nuclear grade, mirrored by the elevated number of mitotic figures, consistent with the observed increased rate of cell division across the slide."
+        }
+      ]
+    },
+    "11522": {
+      "sha256": "3cbc16b6a1ee0461ccda9756946949b81b69907ef6fb81d90c26cc4001326213",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit moderate differentiation with relatively uniform cytological features. The cells generally maintain their gland or tubule structures. They are surrounded by abundant extracellular mucin, which is a notable characteristic in this case. The nuclei appear moderately pleomorphic, but there is no indication of necrosis or calcification within these cells."
+        }
+      ]
+    },
+    "12914": {
+      "sha256": "78e02cb3541e5b18ec27155da5735cfdcb686e87751d676adfdf73ada199ac53",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology showcases gemistocytic astrocytes characterized by abundant eosinophilic cytoplasm and large, irregularly-shaped nuclei. These nuclei exhibit hyperchromasia and pleomorphism, with notable variability in both size and shape. Despite the marked atypia, mitotic figures are sparse, highlighting a low rate of cell division. Occasional lymphocytic aggregates are present, but no evidence of radiation necrosis is noted."
+        }
+      ]
+    },
+    "12951": {
+      "sha256": "12edd7ebcaaff9b733792f38cbfbc92120cf746bf3f6af597250b7c000df2da0",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals moderately atypical fibrillary astrocytes, with noticeable variability in nuclear size and shape. Bizarre, multinucleated cells are present, adding to the atypical background. Despite pronounced atypia, mitotic figures are rare. The cytoplasm lacks eosinophilic granular bodies and other distinct features such as Rosenthal fibers, contributing to an anaplastic appearance."
+        }
+      ]
+    },
+    "12953": {
+      "sha256": "0367e7833aa6aef3b50ec19602d22eb9449410017cf2f3aa3c5435e060f36d51",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals moderately atypical fibrillary astrocytes, with noticeable variability in nuclear size and shape. Bizarre, multinucleated cells are present, adding to the atypical background. Despite pronounced atypia, mitotic figures are rare. The cytoplasm lacks eosinophilic granular bodies and other distinct features such as Rosenthal fibers, contributing to an anaplastic appearance."
+        }
+      ]
+    },
+    "13684": {
+      "sha256": "f7a57edc57141e5b1bdf70ab6b6189e719e0406e8d6dcdf9b84d1673da092ea8",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals moderate differentiation of the adenocarcinoma cells. There is evident nuclear pleomorphism, with variability in nuclear size and shape. The presence of prominent necrosis within the tumor cells contributes to the disorganized cellular arrangement."
+        }
+      ]
+    },
+    "13904": {
+      "sha256": "97aa1f3351e0b413785e7c54e0bded55bfe061a4b49dd18dd9c28df72ef6cf9f",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells show moderate variability in nuclear size and shape, consistent with moderate differentiation. There is nuclear pleomorphism present, with irregular but discernible nuclei. Mitotic figures are noted, consistent with an active cellular proliferation, although specific details on mitotic rate are not provided here."
+        }
+      ]
+    },
+    "14988": {
+      "sha256": "67024d39eb4c621877be4bb7fdec65acaa1e07ce5805db54e51bceb144adf1a8",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells display variability in nuclear size and shape, characteristic of adenocarcinoma. The nuclei demonstrate notable pleomorphism, but necrosis or calcifications are not present in this slide."
+        }
+      ]
+    },
+    "15176": {
+      "sha256": "88ae3b146aa8ebf2f33cad42b0a805bb15f86ef98ffa9d326a836f4c7f7a958f",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cells show minimal atypia, with inconspicuous nucleoli. The nucleoli are not prominently visible, indicating a lower grade of nuclear atypia in the cellular morphology."
+        }
+      ]
+    },
+    "16268": {
+      "sha256": "48408dfd3f822b69452867d154f486673741501451471ebbd3d4ce765d547fec",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cells exhibit high cellularity with atypical nuclei, displaying significant nuclear pleomorphism. The basaloid appearance is marked by irregular and hyperchromatic nuclei, indicative of high-grade dysplasia within the tissue."
+        }
+      ]
+    },
+    "16588": {
+      "sha256": "92a2f0d4a10a7b64994a5ae1b569d4c4ad75e135175ef2e019976890b1516f10",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cells exhibit moderate nuclear pleomorphism, with variability in nuclear size and shape. The nuclei are somewhat larger and irregularly shaped compared to non-malignant cells, reflecting cellular atypia. The cytoplasm displays eosinophilic staining, typical of squamous differentiation."
+        }
+      ]
+    },
+    "16667": {
+      "sha256": "8a9230585b26f2174c0a1ce0948447cb5ac424b0a4986659279eee131eed84f4",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals high-grade nuclear pleomorphism, with atypical squamous cells showing significant variability in nuclear size and shape. The nuclei are prominent, with clearly visible nucleoli, and there is an increased number of mitotic figures, indicating heightened cellular division. Areas of necrosis are also present within the tumor."
+        }
+      ]
+    },
+    "17467": {
+      "sha256": "704b49d00d2c4cc0be7d83c31eb27fdffcc8406d4c533a9ad26dc26131d12dac",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells appear with moderate nuclear pleomorphism, showing irregular nuclear borders and moderately coarse chromatin. Areas of keratin pearls are evident, indicating keratinization typical of squamous cell carcinoma. There is a moderate amount of cytoplasm, and mitotic figures are present, reflecting active cell division."
+        }
+      ]
+    },
+    "18087": {
+      "sha256": "d060a5073aa7eff7845bd4456b199b54728bc2fa05147f1f08f8abbee2859f07",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The spindle cells exhibit a fusiform shape with elongated, hyperchromatic nuclei. In the areas with pleomorphic and epithelioid cells, there is significant variability in cell and nuclear size and shape, indicating cellular pleomorphism. The epithelioid cells have large, irregularly-shaped nuclei with prominent nucleoli. Additionally, there is considerable necrosis, suggesting vigorous tumor cell turnover and death."
+        }
+      ]
+    },
+    "18194": {
+      "sha256": "e3759ec99dc01d01d272ebd46e2c2fb52f9506ecb05fe7338a90c53979512cda",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The atypical melanocytic cells exhibit pronounced nuclear pleomorphism, with notable variation in nuclear size and shape. Some nuclei are considerably enlarged, while others are smaller and more condensed. The chromatin pattern varies from finely granular to coarsely clumped, and prominent nucleoli are occasionally observed within these atypical cells. Mitotic figures are evident, indicating active cell division, although no abnormal mitoses are specifically highlighted in the description."
+        }
+      ]
+    },
+    "18197": {
+      "sha256": "904eebae7a9680f0108f8b8426e52c8fbec0d7bee05b74e4ac9cd2226597d9e2",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The atypical melanocytic cells exhibit pronounced nuclear pleomorphism, with notable variation in nuclear size and shape. Some nuclei are considerably enlarged, while others are smaller and more condensed. The chromatin pattern varies from finely granular to coarsely clumped, and prominent nucleoli are occasionally observed within these atypical cells. Mitotic figures are evident, indicating active cell division, although no abnormal mitoses are specifically highlighted in the description."
+        }
+      ]
+    },
+    "18513": {
+      "sha256": "2c7d174983259aab14854f159f35a34cc9133284daec331237e9c916207b116e",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The melanocytes show prominent nuclear atypia with marked variations in nuclear size and shape. There is a noticeable increase in mitotic figures, indicating a high proliferative index. The presence of necrosis further highlights the aggressive nature of the cellular morphology."
+        }
+      ]
+    },
+    "19302": {
+      "sha256": "c07f0543574a74e864ccc2061857dc1a49cbd148a8592dfe0011305abc065fc6",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology includes round to polygonal cells with a moderate amount of eosinophilic cytoplasm. The nuclei are round-to-oval and contain finely granular 'salt-and-pepper' chromatin. There is minimal nuclear pleomorphism, indicating that the nuclei do not vary widely in size or shape. Occasional mitotic figures are present, but there is no evidence of significant necrosis or calcification."
+        }
+      ]
+    },
+    "19437": {
+      "sha256": "90d6ef47fb60a6afcfcbbb4f429fd58b77fc9fdcff4feab3b1ba7127692bed04",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology in this slide reveals neoplastic cells that are round to polygonal in shape. These cells possess granular eosinophilic cytoplasm, and their nuclei are centrally located. The neoplastic cells are arranged in nests and trabecular patterns, contributing to the abnormal yet organized appearance under microscopic observation."
+        }
+      ]
+    },
+    "19500": {
+      "sha256": "9129be54258d0ee685164044843c2a340e02e11a527323e114e6aa7ab34e7d35",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells display a uniform appearance without significant variability in size or shape. The cells are closely packed but maintain individual cell borders, contributing to the solid and cohesive nature of the tumor. Notable are the absence of mitotic figures and necrosis, indicating a lack of active proliferation and cell death. Additionally, the presence of hyaline globules within the cytoplasm of some cells adds to the observed features, suggesting possible stress or degeneration within those cells."
+        }
+      ]
+    },
+    "19774": {
+      "sha256": "4d95110e92143e2073be44193936aad8601862198e27fd697d830ce07673ca91",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit marked pleomorphism with highly variable spindle shapes. The nuclei are hyperchromatic, showing significant variability in size and shape, indicative of extensive nuclear pleomorphism. There is a high number of mitotic figures, 42 per 10 high-power fields, reflecting an elevated mitotic rate, alongside the extensive cellular atypia."
+        }
+      ]
+    },
+    "20020": {
+      "sha256": "9dd680c723d1eb912fc1e0c007043440caf1b0883cab32127ce38f8c2f464a41",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology varies between the different regions of the tumor. In the high-grade dedifferentiated areas, the cells are spindle-shaped with elongated nuclei, moderate pleomorphism, and a scant amount of cytoplasm. The chromatin is fine with some nuclear atypia. Mitotic figures are readily observed, indicating high proliferative activity. In the well-differentiated liposarcoma areas, cells appear with more adipocytic differentiation, showing vacuolated cytoplasm and peripheral nuclei with less atypia compared to the dedifferentiated areas."
+        }
+      ]
+    },
+    "20023": {
+      "sha256": "dd8eaa63f10ab56805cc576e22e9a24af702b1bd48b56c208c9d0d763a455fd5",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology varies between the different regions of the tumor. In the high-grade dedifferentiated areas, the cells are spindle-shaped with elongated nuclei, moderate pleomorphism, and a scant amount of cytoplasm. The chromatin is fine with some nuclear atypia. Mitotic figures are readily observed, indicating high proliferative activity. In the well-differentiated liposarcoma areas, cells appear with more adipocytic differentiation, showing vacuolated cytoplasm and peripheral nuclei with less atypia compared to the dedifferentiated areas."
+        }
+      ]
+    },
+    "20568": {
+      "sha256": "1bdf817b4e6250e8b99d3a60fd15992fe4f807905793941048fa641285eb43e0",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology is characterized by marked heterogeneity. The tumor cells exhibit a mix of pleomorphic forms, including large, bizarre, multinucleated giant cells, and spindle-shaped cells. There is a high mitotic activity with up to 21 mitoses observed in 10 high-powered fields. The nuclei are variable in size and shape, with some showing atypical features. Despite the high cellular activity, there is minimal evidence of tumor necrosis."
+        }
+      ]
+    },
+    "20571": {
+      "sha256": "226eb00eb5c7d131983c144f153afc9a3297b77914789d941b6bf31ee2bcb372",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology is characterized by marked heterogeneity. The tumor cells exhibit a mix of pleomorphic forms, including large, bizarre, multinucleated giant cells, and spindle-shaped cells. There is a high mitotic activity with up to 21 mitoses observed in 10 high-powered fields. The nuclei are variable in size and shape, with some showing atypical features. Despite the high cellular activity, there is minimal evidence of tumor necrosis."
+        }
+      ]
+    },
+    "20665": {
+      "sha256": "c1ee60d8db1709e8d332728d38aaa56724defc49017c2bcafbc90f40717befb3",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology is characterized by a wide range of variability in both cell and nuclear shapes and sizes, indicative of pleomorphism. Tumor giant cells are numerous, displaying multiple large, irregularly shaped nuclei. Atypical spindle cells are present, and foamy histiocytic cells are scattered throughout. The nuclei exhibit marked atypia with coarse chromatin and prominent nucleoli. Mitotic figures are abundant, with a high mitotic rate of 45 mitoses per 10 high-power fields. Areas of necrosis account for approximately 5-10% of the tumor tissue."
+        }
+      ]
+    },
+    "21674": {
+      "sha256": "6c2efa831a37a412285dfea7eb43cebbe4a9deb4d6b700d1c43855a22e0c7169",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The neoplastic epithelial cells exhibit overlapping nuclei with prominent nuclear grooves and notable intranuclear pseudoinclusions. These cellular features are characteristic of papillary carcinoma. The nuclei are uniform with these specific morphological changes, reflecting the cellular architecture's consistency across the observed tissue."
+        }
+      ]
+    },
+    "21743": {
+      "sha256": "fbed8ea3f979c78a3f0b610b7b93a1f416d3b44ffc36621d768a0a78d9d808ec",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cancerous cells exhibit well-differentiated morphology, maintaining their cellular structures. The nuclei are round to oval with fine chromatin and occasional nuclear grooves, characteristic of papillary carcinoma. Psammoma bodies are scattered throughout, indicating concentric calcification. There is an absence of mitotic activity, which aligns with the well-differentiated state of the tumor cells."
+        }
+      ]
+    },
+    "22088": {
+      "sha256": "243e48fe33de06c9cb4b6df149d36c4c7e7237526da820a43ef0136375cea411",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology of the neoplastic cells is noteworthy for their tall, columnar appearance, which aligns with more than 50% tall cell features. The nuclei are enlarged and exhibit distinct overlapping. They have a ground-glass chromatin texture or chromatin clearing typical of papillary carcinoma. Nuclear grooves and pseudoinclusions might also be observed. There is also a presence of necrosis within the tumor tissue, but mitotic figures are not prominently described in the provided observation."
+        }
+      ]
+    },
+    "22103": {
+      "sha256": "db93ff50efdf5fc245ad7ab7bec13ae5e24127326fbd0587eb65dd21452c42e6",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cancerous epithelial cells exhibit overlapping, enlarged, and irregularly clear nuclei, characteristic of Orphan Annie eye nuclei. The cells also show nuclear grooves and intranuclear cytoplasmic inclusions. There is variability in nuclear size and shape, indicating nuclear pleomorphism."
+        }
+      ]
+    },
+    "22127": {
+      "sha256": "02cf3920d563bf71c17587c28517ce1d697d5e5e7cfec9d8fa28b11d4417ae60",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The neoplastic cells are well-differentiated, with features typical of papillary thyroid carcinoma. The cellular arrangement is orderly, and the nuclei show classic nuclear clearing. Mitotic activity is negligible, as no mitotic figures are identified. There is lymphocytic infiltration in the surrounding non-neoplastic thyroid tissue, indicative of chronic lymphocytic thyroiditis."
+        }
+      ]
+    },
+    "22219": {
+      "sha256": "0fd39087cf0024794f6be70c2c13400715be59d266ee47b35d320a016231c487",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The epithelial cells lining the papillary structures possess nuclei with nuclear clearing and grooves, which create a ground-glass appearance. Additionally, these nuclei occasionally contain pseudoinclusions. These cellular features are typical of papillary carcinoma."
+        }
+      ]
+    },
+    "22236": {
+      "sha256": "4d489f8465a754d8963f1c36033a044d25e5ea03633e29996dc629eb98da994f",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The neoplastic epithelial cells display nuclei that overlap and are optically clear, a hallmark of this form of carcinoma. The nuclei also show grooving and occasional intranuclear cytoplasmic inclusions. No mitotic figures are observed, and there is no evidence of tumor necrosis. These nuclear features, combined with the orderly arrangement of cells, are indicative of the well-differentiated nature of the tumor."
+        }
+      ]
+    },
+    "22278": {
+      "sha256": "ce59b93b8fd3fb5287eb4ab50480956b0f9f4606d09bd6d062c09d38a6705e94",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The epithelial cells exhibit well-differentiated characteristics with prominent nuclear features. The nuclei are enlarged, overlapping, and display a ground-glass or Orphan Annie eye appearance. Additionally, there are notable nuclear grooves and intranuclear cytoplasmic inclusions. Calcification in the form of psammoma bodies is also present."
+        }
+      ]
+    },
+    "22409": {
+      "sha256": "54d5d548218b35fe43d1dee61fc77075d0de61eb136435941081327f6f68a7bb",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cells within the papillary structures exhibit overlapping nuclei with nuclear grooves and pale chromatin. The nuclei are moderately enlarged, with a characteristic ground-glass appearance. There are no significant mitotic figures noted in the examined section."
+        }
+      ]
+    },
+    "22804": {
+      "sha256": "69a7bd3053c784a272ca696f4bee78489d3deeee80f46854dbd8714d7cc84176",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology is consistent with moderate differentiation. The cells show uniformity in nuclear size and shape, with no significant pleomorphism. They are arranged in well-formed glandular patterns without evidence of necrosis, calcifications, or increased mitotic activity."
+        }
+      ]
+    },
+    "24776": {
+      "sha256": "3f6f177c68bbbe92884fb0d41ee8955c938c5dbb7e9636b0d21a76f0904a6dfb",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology reveals a variety of cell types, consistent with mixed differentiation. The tumor cells display variation in size and shape, with some regions showing stratified layers of cells. There is also evidence of cell necrosis. Mitotic figures can be observed, although specific abnormal mitoses are not highlighted in this slide."
+        }
+      ]
+    },
+    "25305": {
+      "sha256": "59d7e409494f67fba454403680023e0fe0abe7ca45f3aed400832ca05492624f",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells display high nuclear variability in both size and shape, reflecting poor differentiation. These cells have small-cell morphological features, with scant cytoplasm and prominent nuclear pleomorphism."
+        }
+      ]
+    },
+    "25494": {
+      "sha256": "068391209fa720dcc8c8db7a3d04d52ad987979010edb113e8496f7834d4d621",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cells exhibit a high degree of nuclear pleomorphism, with pronounced variation in nuclear size and shape. The high-grade atypical features include irregular nuclei and a dense chromatin pattern. Mitotic figures are frequently observed, indicating active cell division."
+        }
+      ]
+    },
+    "25729": {
+      "sha256": "349f84a98b22e0547b80c052c3b1682a6043bcf4ddc2340ce318ee565f2b93a9",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The carcinoma cells exhibit significant cellular atypia and pleomorphism, indicating a high-grade histological appearance. This includes marked variability in nuclear size and shape. Despite the grade, there are no specific mitotic figures described here."
+        }
+      ]
+    },
+    "26617": {
+      "sha256": "604bd51077bd93b879132fd83337c703fe4c0f75a7114324790a802ceec86620",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The neoplastic cells exhibit moderate nuclear pleomorphism, with variability in nuclear size and shape. Although there is some degree of irregularity, the cells maintain certain glandular characteristics typical of adenocarcinoma, contributing to the moderately differentiated status observed."
+        }
+      ]
+    },
+    "26626": {
+      "sha256": "66653704bba46a3eb17afad61e9a2e2e1d1e629ebdc0cbe293c42e243df39f95",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The cellular morphology includes variations in nuclear size and shape, reflecting moderate to high-grade dysplasia. The epithelial cells have irregularly shaped nuclei with prominent nucleoli. The presence of mitotic figures, although not specified as abnormal, indicates active cellular proliferation."
+        }
+      ]
+    },
+    "26766": {
+      "sha256": "48f92fbf17a53e2be13f4312b49da10d6ca8630a977d93ac1fdc1608326899a7",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "What are the notable features of the cellular morphology in this slide?"
+        },
+        {
+          "role": "assistant",
+          "content": "The tumor cells exhibit moderate nuclear pleomorphism, indicating a variable size and shape of the nuclei. The chromatin is somewhat granular and distinct, with occasional small nucleoli. Mitotic figures are observed, consistent with an increased proliferation rate in these cancerous cells."
+        }
+      ]
+    }
+  },
+  "Specific_Feature_Description_train.json": {
+    "23432": {
+      "sha256": "33c54e16d411ff56019cc6b2b094154771a0007d29bc8c7ae6d9b0946b691911",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "Do the neoplastic cells show immunoblastic or Reed-Sternberg morphology?"
+        },
+        {
+          "role": "assistant",
+          "content": "The neoplastic cells exhibit a mixture of immunoblastic and Reed-Sternberg morphology. Immunoblastic cells are large with abundant basophilic cytoplasm and prominent nucleoli. Meanwhile, Reed-Sternberg cells are characterized by their large, binucleated or multinucleated appearance, with prominent nucleoli resembling \"owl's eyes."
+        }
+      ]
+    }
+  },
+  "Staging_choice_train.json": {
+    "1815": {
+      "sha256": "b0aa2495084665e855305b5dc16e59eaea2a13f7414e74bf6ce616efa52c3437",
+      "conversations": [
+        {
+          "role": "user",
+          "content": "For a patient with a primary tumor that cannot be evaluated, no regional lymph node involvement, and no evidence of distant metastasis, what would be their TNM staging? A) TX N0 M0 B) T1 N0 M1 C) T0 N1 M0 D) T2 N0 M1"
+        },
+        {
+          "role": "assistant",
+          "content": "A"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,58 @@
+model:
+  llm_name_or_path: Qwen/Qwen2.5-VL-7B-Instruct
+  modality: slide
+  mllm_args:
+    encoder_type: hybrid
+    freeze_llm: false
+    freeze_encoder: true
+    projector_type: mlp_gelu
+    gradient_checkpointing: true
+    qwen2_5_vl_mrope:
+      enabled: true
+      load_visual_tower: false
+    encoder_kwargs:
+      path: /path/to/logs/clip/run_name/checkpoints/epoch_20.pt
+
+data:
+  preprocessor_args:
+    use_image_start_end_tokens: true
+    remove_system_prompt: false
+  dataset_args:
+    dataset_name: wsi
+    labels_path: data/slidechat.json
+    data_dir: /path/to/wsi-tensors
+    token_compression_rate: 0.8
+    system_prompt: null
+  dataloader_args:
+    batch_size: 4
+    num_workers: 4
+    shuffle: true
+    length_grouped_sampler: true
+    seed: 0
+
+train_args:
+  resume_from_checkpoint: false
+  deterministic: true
+  max_epochs: 3
+  global_batch_size: 64
+  gradient_clipping: 1.0
+  save_freq_epochs: 1
+  save_freq_steps: 1000
+  precision: bf16-mixed
+  accelerator: gpu
+  devices: auto
+  use_tensor_cores: true
+  deepspeed_args:
+    stage: 3
+    offload_optimizer: false
+  
+optimizer:
+  type: AdamW
+  learning_rate: 2e-5
+  weight_decay: 0.0
+  betas: [0.9, 0.999]
+  warmup_ratio: 0.03
+
+wandb:
+  enabled: false
+  project_name: patch-mllm-train

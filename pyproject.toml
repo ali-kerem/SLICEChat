@@ -1,0 +1,51 @@
+[project]
+name = "pathology-mllm"
+version = "0.1.0"
+requires-python = "==3.11.*"
+dependencies = [
+  "h5py>=3.15.1",
+  "deepspeed>=0.18.1",
+  "einops-exts>=0.0.4",
+  "flash-attn==2.8.3.post1+cu.12.6.torch.2.9",
+  "lightning>=2.5.2",
+  "python-dotenv>=1.1.1",
+  "torch==2.9.1+cu126",
+  "torchvision==0.24.1+cu126",
+  "wandb>=0.21.0",
+  "causal-conv1d==1.6.1",
+  "mamba-ssm==2.3.1",
+  "slicechat-encoder==0.1.0",
+  "peft>=0.17.1",
+  "datasets>=4.4.1",
+  "accelerate>=1.12.0",
+  "transformers==4.57.6",
+]
+
+[tool.uv.sources]
+torch       = [{ index = "pytorch-cu126" }]
+torchvision = [{ index = "pytorch-cu126" }]
+slicechat-encoder = { git = "ssh://git@github.com/ali-kerem/SLICEChat-encoder.git", rev = "main" }
+flash-attn = { index = "astral-cu126" }
+causal-conv1d   = { url = "https://github.com/Dao-AILab/causal-conv1d/releases/download/v1.6.1.post4/causal_conv1d-1.6.1+cu12torch2.9cxx11abiTRUE-cp311-cp311-linux_x86_64.whl" }
+mamba-ssm       = { url = "https://github.com/state-spaces/mamba/releases/download/v2.3.1/mamba_ssm-2.3.1+cu12torch2.9cxx11abiTRUE-cp311-cp311-linux_x86_64.whl" }
+
+[[tool.uv.index]]
+name     = "pytorch-cu126"
+url      = "https://download.pytorch.org/whl/cu126"
+explicit = true
+
+[[tool.uv.index]]
+name     = "astral-cu126"
+url      = "https://wheels.astral.sh/simple/cu126/"
+explicit = true
+
+
+[tool.uv]
+dependency-metadata = [
+  { name = "slicechat-encoder", version = "0.1.0", requires-dist = [
+    "causal-conv1d==1.6.1",
+    "mamba-ssm==2.3.1",
+    "ftfy>=6.3.1",
+    "timm>=1.0.10",
+  ] },
+]

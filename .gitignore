@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+
+*.log
+
+.DS_Store
+wandb
+
+.env
+
+/datasets
+/logs
+/lightning_logs
