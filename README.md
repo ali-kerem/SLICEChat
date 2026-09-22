@@ -1,6 +1,8 @@
 # SLICEChat
 
-Training and inference code for a slide-level multimodal language model for pathology. SLICEChat connects a pretrained [WSI encoder](https://github.com/ali-kerem/SLICEChat-encoder) to a language model using pre-extracted patch features in a LLaVA-style training scheme.
+Official implementation of [SLICEChat: Progressive In-Encoder Token Pruning for Whole-Slide Pathology Language Models](https://arxiv.org/abs/2609.24894).
+
+This repository contains the training and inference code for SLICEChat. For training the whole-slide image encoder, see [SLICEChat-encoder](https://github.com/ali-kerem/SLICEChat-encoder).
 
 ## Requirements
 
@@ -115,3 +117,17 @@ Use the same training launcher. The run name and training parameters are restore
 Only epoch-end checkpoints are supported for full resume. Mid-epoch checkpoints cannot reliably restore the dataloader state.
 
 The new log file has a `_resume` suffix: `output_resume.log`. If it already exists, another suffix is appended, such as `output_resume_resume.log`, so previous logs are preserved.
+
+## Citation
+
+```bibtex
+@misc{bozkurt2026slicechatprogressiveinencodertoken,
+      title={SLICEChat: Progressive In-Encoder Token Pruning for Whole-Slide Pathology Language Models},
+      author={Ali Kerem Bozkurt and Baris Cem Bakay and Ibrahim Kulac and Cigdem Gunduz-Demir and Erkut Erdem and Aykut Erdem},
+      year={2026},
+      eprint={2609.24894},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2609.24894},
+}
+```
