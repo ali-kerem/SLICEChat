@@ -1,5 +1,7 @@
 # SLICEChat
 
+<p align="center"><a href="https://cyberiada.github.io/SLICEChat/">Project Page</a> | <a href="https://arxiv.org/abs/2609.24894">arXiv</a> | <a href="https://huggingface.co/alike01b/SLICEChat">Models</a></p>
+
 Official implementation of [SLICEChat: Progressive In-Encoder Token Pruning for Whole-Slide Pathology Language Models](https://arxiv.org/abs/2609.24894).
 
 This repository contains the training and inference code for SLICEChat. For training the whole-slide image encoder, see [SLICEChat-encoder](https://github.com/ali-kerem/SLICEChat-encoder).
